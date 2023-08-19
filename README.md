@@ -10,3 +10,9 @@ to enter
 docker exec -it <continaer id> bash
 
 https://www.stereolabs.com/docs/docker/install-guide-linux/
+
+
+
+To Copy Directory Structure:
+
+```find . -type d -not -path "./.git/*" > directory_structure.txt```
