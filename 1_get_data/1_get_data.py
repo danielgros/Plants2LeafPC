@@ -38,7 +38,7 @@ def main():
     cam.retrieve_image(mat, sl.VIEW.LEFT)
     fd = cv2.imwrite(output_path_image, mat.get_data())
 
-    cam.retrieve_measure(mat, sl.MEASURE.XYZ)
+    cam.retrieve_measure(mat, sl.MEASURE.XYZRGBA)
     
     pc_list_with_colors = []
     pc_list = []
@@ -84,7 +84,8 @@ def main():
                 # B = (colorVal_int >> 8) & 0xFF
                 # A = colorVal_int & 0xFF
 
-                color_components = [int(R), int(G), int(B), int(A)]
+                color_components = [int(R, 2), int(G, 2), int(B, 2), int(A, 2)]
+    
                 # item.append(R)
                 # item.append(G)
                 # item.append(B)
