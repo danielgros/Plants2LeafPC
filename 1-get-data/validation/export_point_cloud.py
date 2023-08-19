@@ -70,7 +70,7 @@ def main():
     py_fpc = sl.FusedPointCloud()  # Create a Mesh object
     runtime_parameters = sl.RuntimeParameters()
 
-    while frame < 10:
+    while frame < 100:
         # For each new grab, mesh data is updated
         if zed.grab(runtime_parameters) == sl.ERROR_CODE.SUCCESS:
             # In the background, spatial mapping will use newly retrieved images, depth and pose to update the mesh
