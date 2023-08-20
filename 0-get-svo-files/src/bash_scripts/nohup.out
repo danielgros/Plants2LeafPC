@@ -1,0 +1,4185 @@
+Number of SVO Recordings Taken: 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 3
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 4
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 5
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 6
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 7
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 8
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 9
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 10
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 11
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 12
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 13
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 14
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 15
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 16
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 17
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 18
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 19
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 20
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 21
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 22
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 23
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 24
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 25
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 26
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 27
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 28
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 29
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 30
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 31
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 32
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 33
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 34
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 35
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 36
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 37
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 38
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 39
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 40
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 41
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 42
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 43
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 44
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 45
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 46
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 47
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 48
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 49
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 50
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 51
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 52
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 53
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 54
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 55
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+Took File 3
+Number of SVO Recordings Taken: 56
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 57
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 58
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 59
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 60
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 61
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 62
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 63
+[ZED][INFO] Logging level INFO
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 64
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 65
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 66
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 67
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 68
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 69
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 70
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 71
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 72
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 73
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 74
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 75
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 76
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 77
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 78
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 79
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 80
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 81
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 82
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 83
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 84
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 85
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 86
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 87
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 88
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 89
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 90
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 91
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 92
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 93
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 94
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 95
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 96
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 97
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 98
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 99
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 100
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 101
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 102
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 103
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 104
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 105
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 106
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 107
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 108
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 109
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 110
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 111
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 112
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 113
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 114
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 115
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 116
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 117
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 118
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 119
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 120
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 121
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 122
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 123
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 124
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 125
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 126
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 127
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 128
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 129
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 130
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 131
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 132
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 133
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 134
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 135
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 136
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 137
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 138
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 139
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Number of SVO Recordings Taken: 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+./: ./: Is a directory
+Number of SVO Recordings Taken: 140
+[ZED][INFO] Logging level INFO
+Took File 1
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+[ZED][INFO] Logging level INFO
+Number of SVO Recordings Taken: 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+Took File 1
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Number of SVO Recordings Taken: 1
+[ZED][INFO] Logging level INFO
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 2
+[ZED][INFO] Logging level INFO
+Took File 4
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+./: ./: Is a directory
+Number of SVO Recordings Taken: 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+Number of SVO Recordings Taken: 141
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 2
+Took File 3
+Took File 4
+Number of SVO Recordings Taken: 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 3
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 4
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 5
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 6
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 7
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 8
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 9
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 10
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 11
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 12
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 13
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 14
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 15
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 16
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 17
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 18
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 19
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 20
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 21
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 22
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 23
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 24
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 25
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 26
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 27
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 28
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 29
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 30
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 31
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 32
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 33
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 34
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 35
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 36
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 37
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 38
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 39
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 40
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 41
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 42
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 43
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4
+Number of SVO Recordings Taken: 44
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 1
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 4 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 4 
+H264: Profile = 77, Level = 50 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 2
+[ZED][INFO] Logging level INFO
+NvMMLiteOpen : Block : BlockType = 8 
+===== NVMEDIA: NVENC =====
+NvMMLiteBlockCreate : Block : BlockType = 8 
+NVMEDIA: H265 : Profile : 1 
+NVMEDIA_ENC: bBlitMode is set to TRUE 
+Took File 3
+[ZED][INFO] Logging level INFO
+Took File 4

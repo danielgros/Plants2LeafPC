@@ -1,6 +1,5 @@
-0-svo-files/camera_callibration/
-0-svo-files/data_collection/
-1-get-data/data/
+0-get-svo-files/data/
+1-get-pc/data/
 2-annotations/data/
 3-model/data/
 4-get-mask/data/

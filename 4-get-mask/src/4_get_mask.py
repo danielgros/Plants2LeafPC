@@ -9,6 +9,7 @@ import tensorflow as tf
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+import pickle
 
 # Root directory of the project
 ROOT_DIR = os.path.abspath("../../../../")
@@ -132,20 +133,24 @@ for i in range(0, numMasks):
     masks[key] = []
 
 listKeys = list(masks.keys())
+print(listKeys)
+print(masks)
 
 # populate
-for row in rawMasks:
+for rowIndex, rowValue in enumerate(rawMasks):
     for key in listKeys:
-        masks[key] = []
-    for column in row:
+        masks[key].append([])
+    for columnIndex, columnValue in enumerate(rowValue):
         for key in listKeys:
-            masks[key] = []
-        for numMask, maskValue in enumerate(column):
+            masks[key][rowIndex].append([])
+        for numMask, maskValue in enumerate(columnValue):
             key = "mask_" + imageName + "_num_" + str(numMask)
-            masks[key] = maskValue
+            masks[key][rowIndex][columnIndex].append(maskValue)
 
 
-
+output_path = "../data/masks2.txt"
+with open(output_path, 'wb') as f:
+    pickle.dump(masks, f)
 
 
 

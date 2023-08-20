@@ -117,11 +117,15 @@ def main():
 
     mask_path = sys.argv[1]
     point_cloud_path = sys.argv[2]
+    mask_2_path = sys.argv[3]
 
     
     # numpy array with shape (1024, 1024, 1) where data is False / True
     with open(mask_path, 'rb') as f:
         mask = pickle.load(f)
+
+    with open(mask_2_path, 'rb') as f:
+        mask_2 = pickle.load(f)
 
     # list of each leaf mask on the image
     list_keys = list(mask.keys())
