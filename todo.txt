@@ -25,3 +25,12 @@ monday
 
 tuesday 
 - revision
+
+
+
+Documentation:
+1. download matterport
+2. clone repository within samples folder
+3. replicate conda environment
+4. download docker image
+5. start a docker container
