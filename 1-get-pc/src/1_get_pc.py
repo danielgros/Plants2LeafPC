@@ -25,10 +25,11 @@ def main():
     beginning = 0
     middle = last.span()[1]
     end = remove2.span()[0]
-    svo_file_name = svo_input_path[beginning:middle] + "output/" + svo_input_path[middle:end]
+    svo_file_path = svo_input_path[beginning:middle] + "output/"
+    svo_file_name = svo_input_path[middle:end]
     
-    output_path_pc = svo_file_name + "_pc.npy"
-    output_path_pc_with_colors = svo_file_name + "_cpc.npy"
+    output_path_pc = svo_file_path + "pc_" + svo_file_name + "txt"
+    output_path_pc_with_colors = svo_file_path + "cpc_" + svo_file_name + ".txt"
     output_path_image = svo_file_name + "_L.jpg"
 
     input_type = sl.InputType()

@@ -1,3 +1,10 @@
+import pickle
+
+filename = sys.argv[1]
+
+with open(filename, 'rb') as f:
+    b = pickle.load(f)
+
 import sys
 import numpy as np
 import pickle
@@ -130,7 +137,6 @@ def main():
     # list of each leaf mask on the image
     list_keys = list(mask.keys())
     print(np.array(mask[list(mask.keys())[0]]).shape)
-    print(np.array(mask_2[list(mask_2.keys())[0]]).shape)
 
     mask_maxX = len(mask[list_keys[0]])
     mask_maxY = len(mask[list_keys[0]][0])
@@ -195,10 +201,6 @@ def main():
 
     f3.close()
     
-    # print(point_cloud_leaf)
-
-    # with open('2_cropped_point_cloud.txt', 'wb') as f:
-    #     pickle.dump(point_cloud_leaf, f)
 
 
 if __name__ == "__main__":
