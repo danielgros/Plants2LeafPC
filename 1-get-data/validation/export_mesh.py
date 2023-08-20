@@ -21,6 +21,7 @@
 import sys
 
 import pyzed.sl as sl
+import re
 
 
 def main():
@@ -29,7 +30,16 @@ def main():
 
     # Get input and output parameters
     svo_input_path = sys.argv[1]
-    # output_path = Path(sys.argv[2])
+
+    remove1 = re.finditer(r"/", svo_input_path)
+    remove2 = re.search(r"\b.svo", svo_input_path)
+    *_, last = remove1
+    beginning = 0
+    middle = last.span()[1]
+    end = remove2.span()[0]
+    svo_file_name = svo_input_path[beginning:middle] + "output/" + svo_input_path[middle:end]
+    
+    output_path = svo_file_name + "_mesh.obj"
 
     # Set up svo file input
     input_type = sl.InputType()
@@ -72,7 +82,7 @@ def main():
     runtime_parameters = sl.RuntimeParameters()
 
 
-    while frame < 100:
+    while frame < 3000:
         # For each new grab, mesh data is updated
         if zed.grab(runtime_parameters) == sl.ERROR_CODE.SUCCESS:
             # In the background, spatial mapping will use newly retrieved images, depth and pose to update the mesh
@@ -81,6 +91,8 @@ def main():
             print("\rImages captured: {0} / 3000 || {1}".format(frame, mapping_state))
 
             frame = frame + 1
+        else:
+            break
 
     print("\n")
 
@@ -95,7 +107,7 @@ def main():
     print("Applying texture to Mesh...\n")
     py_mesh.apply_texture() # Apply the texture
     print("Saving Mesh...\n")
-    py_mesh.save("../data/mesh.obj") # Save the mesh in an obj file
+    py_mesh.save(output_path) # Save the mesh in an obj file
 
     # Disable tracking and mapping and close the camera
     zed.disable_spatial_mapping()

@@ -6,6 +6,7 @@ import enum
 import pyzed.sl as sl
 import struct
 import pickle
+import re
 
 
 
@@ -17,9 +18,18 @@ def main():
 
     # Get input parameters
     svo_input_path = sys.argv[1]
-    output_path_pc = svo_input_path + "_pc.npy"
-    output_path_pc_with_colors = svo_input_path + "_cpc.npy"
-    output_path_image = svo_input_path + "_L.jpg"
+
+    remove1 = re.finditer(r"/", svo_input_path)
+    remove2 = re.search(r"\b.svo", svo_input_path)
+    *_, last = remove1
+    beginning = 0
+    middle = last.span()[1]
+    end = remove2.span()[0]
+    svo_file_name = svo_input_path[beginning:middle] + "output/" + svo_input_path[middle:end]
+    
+    output_path_pc = svo_file_name + "_pc.npy"
+    output_path_pc_with_colors = svo_file_name + "_cpc.npy"
+    output_path_image = svo_file_name + "_L.jpg"
 
     input_type = sl.InputType()
     input_type.set_from_svo_file(svo_input_path)
