@@ -107,6 +107,8 @@ info = dataset.image_info[image_id]
 print("image ID: {}.{} ({}) {}".format(info["source"], info["id"], image_id, 
                                        dataset.image_reference(image_id)))
 
+imageName = info['id']
+
 # Run object detection
 results = model.detect([image], verbose=1)
 
@@ -114,31 +116,61 @@ results = model.detect([image], verbose=1)
 ax = get_ax(1)
 r = results[0]
 
-masks = r['masks']
-print(masks)
+print(type(results))
+print(type(r))
 
-visualize.display_instances(image, r['rois'], r['masks'], r['class_ids'], 
-                            dataset.class_names, r['scores'], ax=ax,
-                            title="Predictions")
-log("gt_class_id", gt_class_id)
-log("gt_bbox", gt_bbox)
-log("gt_mask", gt_mask)
+rawMasks = r['masks']
+print(type(rawMasks))
+print(rawMasks.shape)
 
-# Display Ground Truth only
-visualize.display_instances(image, gt_bbox, gt_mask, gt_class_id, 
-                            dataset.class_names, ax=get_ax(1),
-                            show_bbox=False, show_mask=False,
-                            title="Ground Truth")
 
-# # Compute AP over range 0.5 to 0.95 and print it
-# utils.compute_ap_range(gt_bbox, gt_class_id, gt_mask,
-#                        r['rois'], r['class_ids'], r['scores'], r['masks'],
-#                        verbose=1)
+# define
+masks = {}
+numMasks = len(rawMasks[0][0])
+for i in range(0, numMasks):
+    key = "mask_" + imageName + "_num_" + str(i)
+    masks[key] = []
 
-visualize.display_differences(
-    image,
-    gt_bbox, gt_class_id, gt_mask,
-    r['rois'], r['class_ids'], r['scores'], r['masks'],
-    dataset.class_names, ax=get_ax(),
-    show_box=False, show_mask=False,
-    iou_threshold=0.5, score_threshold=0.5)
+listKeys = list(masks.keys())
+
+# populate
+for row in rawMasks:
+    for key in listKeys:
+        masks[key] = []
+    for column in row:
+        for key in listKeys:
+            masks[key] = []
+        for numMask, maskValue in enumerate(column):
+            key = "mask_" + imageName + "_num_" + str(numMask)
+            masks[key] = maskValue
+
+
+
+
+
+
+# visualize.display_instances(image, r['rois'], r['masks'], r['class_ids'], 
+#                             dataset.class_names, r['scores'], ax=ax,
+#                             title="Predictions")
+# log("gt_class_id", gt_class_id)
+# log("gt_bbox", gt_bbox)
+# log("gt_mask", gt_mask)
+
+# # Display Ground Truth only
+# visualize.display_instances(image, gt_bbox, gt_mask, gt_class_id, 
+#                             dataset.class_names, ax=get_ax(1),
+#                             show_bbox=False, show_mask=False,
+#                             title="Ground Truth")
+
+# # # Compute AP over range 0.5 to 0.95 and print it
+# # utils.compute_ap_range(gt_bbox, gt_class_id, gt_mask,
+# #                        r['rois'], r['class_ids'], r['scores'], r['masks'],
+# #                        verbose=1)
+
+# visualize.display_differences(
+#     image,
+#     gt_bbox, gt_class_id, gt_mask,
+#     r['rois'], r['class_ids'], r['scores'], r['masks'],
+#     dataset.class_names, ax=get_ax(),
+#     show_box=False, show_mask=False,
+#     iou_threshold=0.5, score_threshold=0.5)
