@@ -23,9 +23,13 @@
 
 
 
-Clone THIS Repository within a directory within the "samples" folder in the Matterport Mask-RCNN repository
+Clone THIS Repository within a directory within the "samples" folder in the Matterport Mask-RCNN repository like so
 
+```maskrcnnrep[rename]/samples/senior-thesis-project/```
 
+Copy the directory structure
+
+```xargs mkdir -p < directory_structure.txt```
 
 ### Conda Environment Setup
 
@@ -54,3 +58,9 @@ https://www.stereolabs.com/docs/docker/install-guide-linux/
 To Copy Directory Structure:
 
 ```find . -type d -not -path "./.git/*" > directory_structure.txt```
+
+
+For access to the data email: ...............
+
+
+
