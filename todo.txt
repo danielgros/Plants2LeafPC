@@ -1,36 +1,24 @@
-Specific
-1 How good are the meshes/point clouds produced by the ZED camera? -> mesh of ruler, compare
 
-
-
-
-1.5 How good are the meshes/point clouds with less leaves? -> mesh of other view
-2 How good is the mask of the point cloud I produce? -> use a synthetic image (all white pixels except for some black to be masked), also compare with ideal
-
-thesis: the goal of it is what i want it to be, not what it was in the beginning (reframe the goal if needed)
-
-skeleton example -> synethtic images going from one spot to the next -> "data was messy/difficult to work with cause ...."
-
-
-General
+TIMELINE
 
 goals for today
-- visualize everything up until and including the mask -> use prototypete
+- validate up until and including 1
 
-tomorrow
-- visualize everything up until and including the width
+monday pre meeting
+- validate up until and including 5
+- skeleton example -> synethtic images going from one spot to the next -> "data was messy/difficult to work with cause ...."
 
-monday
-- leeway for everything and writing
+monday meeting
+Answer:
+- How good are the meshes/point clouds produced by the ZED camera? -> mesh of ruler, compare
+- How good are the meshes/point clouds with less leaves? -> mesh of other view
+- How good is the mask of the point cloud I produce? -> use a synthetic image (all white pixels except for some black to be masked), also compare with ideal
 
-tuesday 
+monday post meeting
+- validate up until and including 6 + writing
+
+tuesday pre meeting
+- validate up until and including 7 + writing
+
+tuesday post meeting
 - revision
-
-
-
-Documentation:
-1. download matterport
-2. clone repository within samples folder
-3. replicate conda environment
-4. download docker image
-5. start a docker container
