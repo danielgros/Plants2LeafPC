@@ -6,12 +6,17 @@
 
 ### Matterport Mask-RCNN Setup
 
+1. Clone Matterport Mask-RCNN Via:
+
+2. Clone THIS Repository Within a Directory Within the "samples" folder in the Matterport Mask-RCNN repository
+
 ### Conda Environment Setup
 
 ### ZED SDK Setup
 
+1. Download the ZED SDK Docker Image at ...
 
-run the docker container
+2. Start the docker container
 
 ```docker run --gpus all -it --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04```
 
