@@ -5,7 +5,7 @@ goals for today
 - validate up until and including 1
 
 monday pre meeting
-- validate up until and including 5
+- validate up until and including 4
 - skeleton example -> synethtic images going from one spot to the next -> "data was messy/difficult to work with cause ...."
 
 monday meeting
