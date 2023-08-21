@@ -22,3 +22,34 @@ tuesday pre meeting
 
 tuesday post meeting
 - revision
+
+
+
+VALIDATION
+
+0
+- qualitative measurements on the accuracy of the point clouds rendered from the sdk from the svo files from the camera
+
+1
+- quantitative comparison of the images vs the visualization of the point clouds
+
+2
+- none
+
+3
+- visualizations from the jupyter notebook model files
+
+4
+- compare a visualization of the leaf masked in a picture (line in jupyter notebook model file) with a self made black and white image where the mask is black and everything else is white
+
+5
+- easy to visualize point cloud of scattered points -> a sphere, the mask will be a cylinder that cuts across the sphere ?? something like that
+- visualize normal result
+
+6
+- randomize points that average out to an expected midline, verify it's that midline
+- visualize normal result
+
+7
+- set a point cloud with two points that are obviously the furthest, compare known distance with calculated distance
+- visualize normal result where two points are distinct colors that can be told apart
