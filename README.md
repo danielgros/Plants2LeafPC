@@ -6,9 +6,26 @@
 
 ### Matterport Mask-RCNN Setup
 
-1. Clone Matterport Mask-RCNN Via:
+1. Clone the Matterport Mask-RCNN repository https://github.com/matterport/Mask_RCNN
+2. Install dependencies
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+3. Run setup from the repository root directory
+    ```bash
+    python3 setup.py install
+    ``` 
+4. Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases).
 
-2. Clone THIS Repository Within a Directory Within the "samples" folder in the Matterport Mask-RCNN repository
+
+
+
+
+
+
+Clone THIS Repository within a directory within the "samples" folder in the Matterport Mask-RCNN repository
+
+
 
 ### Conda Environment Setup
 
