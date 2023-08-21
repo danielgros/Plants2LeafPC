@@ -12,7 +12,8 @@
 
 
 run the docker container
-docker run --gpus all -it --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
+
+```docker run --gpus all -it --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04```
 
 to exit the docker container:
 Type Ctrl+p then Ctrl+q.
