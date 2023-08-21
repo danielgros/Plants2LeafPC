@@ -43,8 +43,8 @@ def scale_coor(mask_coor, mask_max, pc_max):
     return pc_coor
 
 def preprocessing_pc(point_cloud, pc_maxX, pc_maxY):
-    x_max = round(pc_maxX) + 1
-    y_max = round(pc_maxY) + 1
+    x_max = round(float(pc_maxX)) + 1
+    y_max = round(float(pc_maxY)) + 1
 
     processed_point_cloud = [None] * x_max
     for i in range(x_max):
@@ -54,9 +54,10 @@ def preprocessing_pc(point_cloud, pc_maxX, pc_maxY):
 
     for point in point_cloud:
         x, y, z = point
-        # truncated_point = '%.2f'%(x), '%.2f'%(y), '%.2f'%(z)
-        x_rounded = round(x)
-        y_rounded = round(y)
+        x_rounded = int(round(x))
+        y_rounded = int(round(y))
+        
+        # print statements:
         # print('x_max :' + str(x_max))
         # print('y_max :' + str(y_max))
         # print('x :' + str(x_rounded))
@@ -87,8 +88,8 @@ def add_points(point_cloud_leaf, preprocessed_point_cloud, pc_x_coor, pc_y_coor)
     #         point_cloud_leaf.append(point)
             # f.write(str(x) + ',' + str(y) + ',' + str(z))
 
-    mask_x_coor = round(pc_x_coor)
-    mask_y_coor = round(pc_y_coor)
+    mask_x_coor = int(round(pc_x_coor))
+    mask_y_coor = int(round(pc_y_coor))
 
     if preprocessed_point_cloud[mask_x_coor] and preprocessed_point_cloud[mask_x_coor][mask_y_coor]:
         points = preprocessed_point_cloud[mask_x_coor][mask_y_coor]
@@ -117,25 +118,20 @@ def main():
 
     mask_path = sys.argv[1]
     point_cloud_path = sys.argv[2]
-    mask_2_path = sys.argv[3]
 
     
     # numpy array with shape (1024, 1024, 1) where data is False / True
     with open(mask_path, 'rb') as f:
         mask = pickle.load(f)
 
-    with open(mask_2_path, 'rb') as f:
-        mask_2 = pickle.load(f)
-
     # list of each leaf mask on the image
     list_keys = list(mask.keys())
     print(np.array(mask[list(mask.keys())[0]]).shape)
-    print(np.array(mask_2[list(mask_2.keys())[0]]).shape)
 
     mask_maxX = len(mask[list_keys[0]])
     mask_maxY = len(mask[list_keys[0]][0])
 
-    # numpy array with shape (number of points, 3) where data is (x,y,z)
+    # numpy array with shape (number of points, 7) where data is (x,y,z,r,g,b,a)
     with open(point_cloud_path, 'rb') as f:
         point_cloud = pickle.load(f)
 
@@ -147,15 +143,6 @@ def main():
     # hard coded first dict value FOR NOW ->> TO BE CHANGED TO APPLY TO MORE THAN ONE LEAF MASK
     mask_leaf = mask[list_keys[0]]
     point_cloud_leaf = []
-
-    # TEMPORARY
-    # counter = 0
-
-    
-
-    f2 = open("5_cropped_point_cloud.csv", "w")
-    f2.write("x_coor,y_coor,z_coor\n")
-    f2.close()
     
     preprocessed_point_cloud = preprocessing_pc(point_cloud, pc_maxX, pc_maxY)
 
@@ -172,28 +159,24 @@ def main():
                 # print(pc_y_coor)
 
                 add_points(point_cloud_leaf, preprocessed_point_cloud, pc_x_coor, pc_y_coor) 
-                # add_points(point_cloud_leaf, preprocessed_point_cloud, pc_x_coor, pc_y_coor, f3) 
-
-        #         counter += 1
-        #         if counter >= 10000:
-        #             break
-
-        # if counter >= 10000:
-        #             break
-        
-    # print(counter)
+                # add_points(point_cloud_leaf, preprocessed_point_cloud, pc_x_coor, pc_y_coor, f) 
 
     print(np.array(point_cloud_leaf).shape)
 
     # point_cloud_for_csv = minimize_pc(point_cloud_leaf)
     point_cloud_for_csv = point_cloud_leaf
 
-    f3 = open("2_cropped_point_cloud.csv", "a")
-    for point in point_cloud_for_csv:
-        x, y, z = point
-        f3.write(str(x) + ',' + str(y) + ',' + str(z) + '\n')
+    filename = "../data/cropped_point_cloud.csv"
 
-    f3.close()
+    f = open(filename, "w")
+    f = open(filename, "a")
+    f.write("x_coor,y_coor,z_coor,r,g,b,a\n")
+    for point in point_cloud_for_csv:
+        x, y, z, r, g, b, a = point
+        line = str(x) + ',' + str(y) + ',' + str(z) + ',' + str(r) + ',' + str(g) + ',' + str(b) + ',' + str(a) + '\n'
+        f.write(line)
+
+    f.close()
     
     # print(point_cloud_leaf)
 

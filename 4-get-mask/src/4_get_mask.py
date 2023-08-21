@@ -124,6 +124,6 @@ for rowIndex, rowValue in enumerate(rawMasks):
             masks[key][rowIndex][columnIndex].append(maskValue)
 
 # output
-output_path = "../data/masks2.txt"
+output_path = "../data/masks.txt"
 with open(output_path, 'wb') as f:
     pickle.dump(masks, f)
