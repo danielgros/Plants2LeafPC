@@ -1,4 +1,8 @@
 .
+./7-get-edge-points
+./7-get-edge-points/src
+./7-get-edge-points/validation
+./7-get-edge-points/data
 ./0-get-svo-files
 ./0-get-svo-files/src
 ./0-get-svo-files/src/bash_scripts
@@ -25,6 +29,10 @@
 ./backupdataincase
 ./backupdataincase/sample-data
 ./backupdataincase/sample-data/output
+./8-get-width
+./8-get-width/src
+./8-get-width/validation
+./8-get-width/data
 ./.vscode
 ./3-model
 ./3-model/dataset
@@ -40,10 +48,9 @@
 ./4-get-mask
 ./4-get-mask/src
 ./4-get-mask/validation
-./7-get-width
-./7-get-width/src
-./7-get-width/validation
-./7-get-width/data
+./4-get-mask/data
+./4-get-mask/data/validation
+./4-get-mask/data/validation/output
 ./2-annotations
 ./2-annotations/src
 ./2-annotations/data
