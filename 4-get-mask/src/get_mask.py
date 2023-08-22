@@ -123,6 +123,9 @@ for rowIndex, rowValue in enumerate(rawMasks):
             key = "mask_" + imageName + "_num_" + str(numMask)
             masks[key][rowIndex][columnIndex].append(maskValue)
 
+# resize mask
+
+
 # output
 output_path = "../data/masks.txt"
 with open(output_path, 'wb') as f:

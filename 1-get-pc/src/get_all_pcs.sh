@@ -2,30 +2,27 @@
 
 
 
-SOURCE_DIR=../data/current-data
+SOURCE_DIR=../data/data-collection-room-1/used_svo
 files=(
    "$SOURCE_DIR"/*
 )
 
-#filename=$(first_test)
-#echo File Name: ${filename}
-
-# printf '%s\n' "${files[@]##*/}"
-
-# for file in "${files[@]}";
-# do
-#     if [[ $file == *"06.00.00_png_ultra"* ]] || [[ $file == *"12.00.00_png_ultra"* ]] || [[ $file == *"18.00.00_png_ultra"* ]]; then
-#         echo "$file"
-#         python3 get_data.py "$file"
-#     fi
-
-# done		
+printf '%s\n' "${files[@]##*/}"
 
 for file in "${files[@]}";
 do
-    if [[ $file == *"png_ultra"* ]]; then
+    if [[ $file == *"08.00.00_png_ultra"* ]] || [[ $file == *"13.00.00_png_ultra"* ]] || [[ $file == *"18.00.00_png_ultra"* ]] || [[ $file == *"23.00.00_png_ultra"* ]]; then
         echo "$file"
-        python3 "1_get_data.py" "$file"
+        python3 get_pc.py "$file"
     fi
 
-done	
+done		
+
+# for file in "${files[@]}";
+# do
+#     if [[ $file == *"png_ultra"* ]]; then
+#         echo "$file"
+#         python3 "get_pc.py" "$file"
+#     fi
+
+# done	

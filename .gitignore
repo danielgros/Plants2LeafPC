@@ -3,7 +3,9 @@
 2-annotations/data/
 3-model/data/
 4-get-mask/data/
+4.5-scale-mask/data/
 5-crop-pc/data/
 6-get-midline/data/
-7-get-width/data/
+7-get-edge-points/data/
+8-get-width/data/
 backupdataincase/
