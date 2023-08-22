@@ -33,13 +33,15 @@ def main():
 
     remove1 = re.finditer(r"/", svo_input_path)
     remove2 = re.search(r"\b.svo", svo_input_path)
-    *_, last = remove1
+    *_, second_last, last = remove1
     beginning = 0
-    middle = last.span()[1]
+    middle_before_svo_folder = second_last.span()[1]
+    middle_after_svo_folder = last.span()[1]
     end = remove2.span()[0]
-    svo_file_name = svo_input_path[beginning:middle] + "output/" + svo_input_path[middle:end]
+    svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "native_export_output/"
+    svo_file_name = svo_input_path[middle_after_svo_folder:end]
     
-    output_path = svo_file_name + "_mesh.obj"
+    output_path = svo_file_path + svo_file_name + "_mesh.obj"
 
     # Set up svo file input
     input_type = sl.InputType()

@@ -3,7 +3,7 @@
 ./0-get-svo-files/src
 ./0-get-svo-files/src/bash_scripts
 ./0-get-svo-files/validation
-./0-get-svo-files/validation new
+./0-get-svo-files/validation/zed_sdk_native_exports
 ./0-get-svo-files/data
 ./0-get-svo-files/data/camera-callibration-new
 ./0-get-svo-files/data/camera-callibration-new/output
