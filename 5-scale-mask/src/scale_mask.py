@@ -1,3 +1,8 @@
+
+#############
+######   CHANGE: SCALE MASK NASED ON JPG NOT POINT CLOUD, SCALE MASK INTO NEGATIVE ALSO
+######
+
 import sys
 import numpy as np
 import pickle

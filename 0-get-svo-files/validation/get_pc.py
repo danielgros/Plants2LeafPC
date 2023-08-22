@@ -16,12 +16,11 @@ def main():
     svo_input_path = sys.argv[1]
 
     remove1 = re.finditer(r"/", svo_input_path)
-    remove2 = re.search(r"\b.svo", svo_input_path)
     *_, second_last, last = remove1
     beginning = 0
     middle_before_svo_folder = second_last.span()[1]
     middle_after_svo_folder = last.span()[1]
-    end = remove2.span()[0]
+    end = -4
     svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "output/"
     svo_file_name = svo_input_path[middle_after_svo_folder:end]
     
@@ -51,33 +50,10 @@ def main():
 
     pc_list = []
 
-    minX = float('inf') # horizontal, positive is towards the door
-    minY = float('inf') # vertical, positive is towards the other plants, back of the room
-    minZ = float('inf') # depth, positive is towards leaves
-
-
-    maxX = float('-inf') # horizontal, positive is towards the door
-    maxY = float('-inf') # vertical, positive is towards the other plants, back of the room
-    maxZ = float('-inf') # depth, positive is towards leaves
-
     for i in range(0, mat.get_width()):
         for j in range(0, mat.get_height()):
             err, val = mat.get_value(i,j)
             if not np.isnan(val[0]) and not np.isinf(val[0]):
-
-                if minX > val[0]:
-                    minX = val[0]
-                if minY > val[1]:
-                    minY = val[1]
-                if minZ > val[2]:
-                    minZ = val[2]
-
-                if maxX < val[0]:
-                    maxX = val[0]
-                if maxY < val[1]:
-                    maxY = val[1]
-                if maxZ < val[2]:
-                    maxZ = val[2]
 
                 # g = str(val[0:3])+'  ' 
                 # filed.write(g)
@@ -92,13 +68,6 @@ def main():
 
             # filed.write('\n')
     # filed.close()
-
-    minX = abs(minX)
-    minY = abs(minY)
-
-    for i in range(0, len(pc_list)):
-        pc_list[i][0] += minX
-        pc_list[i][1] += minY
 
     with open(output_path_pc, 'wb') as f:
         pickle.dump(pc_list, f)

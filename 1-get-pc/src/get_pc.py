@@ -16,13 +16,12 @@ def main():
     svo_input_path = sys.argv[1]
 
     remove1 = re.finditer(r"/", svo_input_path)
-    remove2 = re.search(r"\b.svo", svo_input_path)
     *_, second_last, last = remove1
     beginning = 0
     middle_before_svo_folder = second_last.span()[1]
     middle_after_svo_folder = last.span()[1]
-    end = remove2.span()[0]
-    svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "output/"
+    end = -4
+    svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "native_export_output/"
     svo_file_name = svo_input_path[middle_after_svo_folder:end]
     
     output_path_pc = svo_file_path + "pc_" + svo_file_name + ".txt"

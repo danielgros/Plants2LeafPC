@@ -1,12 +1,13 @@
 import numpy as np
 import open3d as o3d
 import pandas as pd
+import sys
 
 '''
 Read and transform the dataframe
 '''
 #  Read the csv with the weather metadata with Pandas
-dataset_path = 'pc_fake_brown_plant_curved_png_ultra.csv'
+dataset_path = sys.argv[1]
 dataset = pd.read_csv(dataset_path)  
 print(dataset.head())
 
