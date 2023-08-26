@@ -21,7 +21,7 @@ def main():
     middle_before_svo_folder = second_last.span()[1]
     middle_after_svo_folder = last.span()[1]
     end = -4
-    svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "native_export_output/"
+    svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "output/"
     svo_file_name = svo_input_path[middle_after_svo_folder:end]
     
     output_path_pc = svo_file_path + "pc_" + svo_file_name + ".txt"
@@ -63,6 +63,12 @@ def main():
         for j in range(0, mat.get_height()):
             err, val = mat.get_value(i,j)
             if not np.isnan(val[0]) and not np.isinf(val[0]):
+
+                # temporary cutoff values to help with mask scaling -> should be removed in future after mask scaling method is improved
+                if (val[0] < -2150 or val[0] > 3095):
+                    continue
+                if (val[1] < -1300 or val[1] > 1200):
+                    continue
 
                 if minX > val[0]:
                     minX = val[0]

@@ -2,7 +2,7 @@
 
 
 
-SOURCE_DIR=../data/data-collection-room-2/used_svo
+SOURCE_DIR=../data/data-collection-room-1/used_svo
 files=(
    "$SOURCE_DIR"/*
 )

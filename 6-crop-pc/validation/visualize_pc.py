@@ -22,7 +22,6 @@ print(dataset.head())
 #dataset['Months'] = dataset['DateTime'].dt.month10
 # Transform the Temperature, Humidity and the new Months columns to a numpy array
 dataset_scatter = dataset[['x_coor', 'y_coor','z_coor']].to_numpy()
-dataset_scatter_color = dataset[['r','g','b']].to_numpy() / 255
 
 
 '''
@@ -38,7 +37,6 @@ vis.create_window(window_name='Statistic Visualize', width=800, height=600)
 pcd = o3d.geometry.PointCloud()
 # Tranform the numpy array into points for the point cloud 
 pcd.points = o3d.utility.Vector3dVector(dataset_scatter)
-pcd.colors = o3d.utility.Vector3dVector(dataset_scatter_color)
 # Add the point cloud to the visualizer
 vis.add_geometry(pcd)
 # Get options for the renderer for visualizing the coordinate system and changing the background

@@ -2,12 +2,12 @@ import numpy as np
 from PIL import Image
 import pickle
 
-mask_path = '../data/validation/mask.txt'
+mask_path = '../data/masks.txt'
 
 with open(mask_path, 'rb') as f:
     masks = pickle.load(f)
 
-mask = masks[list(masks.keys())[0]]
+mask = masks[list(masks.keys())[2]]
 
 # Conver the list to a numpy array
 array = np.array(mask)
