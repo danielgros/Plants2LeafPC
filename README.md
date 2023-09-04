@@ -64,3 +64,4 @@ For access to the data email: danielmgros@gmail.com
 
 
 
+two avenues -> docker container version and conda version
