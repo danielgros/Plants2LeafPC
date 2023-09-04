@@ -60,7 +60,7 @@ To Copy Directory Structure:
 ```find . -type d -not -path "./.git/*" > directory_structure.txt```
 
 
-For access to the data email: ...............
+For access to the data email: danielmgros@gmail.com
 
 
 
