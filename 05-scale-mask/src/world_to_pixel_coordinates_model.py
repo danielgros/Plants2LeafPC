@@ -46,7 +46,7 @@ optimizer = optim.SGD([initial_intrinsic_params, initial_extrinsic_params, initi
 def loss_function(intrinsic_params, extrinsic_params, optical_center, target_image):
     # Project the point cloud using optimized parameters
     projected_image = project_point_cloud(point_cloud, intrinsic_params, extrinsic_params, optical_center, target_image.shape)
-    cv2.imwrite('projected_image.png', projected_image)
+    cv2.imwrite('../data/projected_image.png', projected_image)
     
     # Convert projected_image and target_image to PyTorch tensors
     projected_image_tensor = torch.from_numpy(projected_image).permute(2, 0, 1).float()
@@ -87,4 +87,4 @@ optimized_optical_center = initial_optical_center.detach().numpy()
 projected_image = project_point_cloud(point_cloud, optimized_intrinsic_params, optimized_extrinsic_params, optimized_optical_center, target_image.shape)
 
 # Save the resulting image
-cv2.imwrite('projected_image.png', projected_image)
+cv2.imwrite('../data/projected_image.png', projected_image)

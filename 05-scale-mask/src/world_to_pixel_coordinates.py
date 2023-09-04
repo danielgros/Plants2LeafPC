@@ -53,7 +53,7 @@ def main():
     print("Max Y Pixel:", max_y)
 
     # Save the resulting image
-    cv2.imwrite('projected_image.png', image)
+    cv2.imwrite('../data/projected_image.png', image)
 
 
 
