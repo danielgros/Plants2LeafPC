@@ -1,3 +1,4 @@
+"""
 ########################################################################
 #
 # Copyright (c) 2022, STEREOLABS.
@@ -17,10 +18,11 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 ########################################################################
+"""
 
 import sys
-import pyzed.sl as sl
 from signal import signal, SIGINT
+from pyzed import sl
 
 cam = sl.Camera()
 
