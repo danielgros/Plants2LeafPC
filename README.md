@@ -1,4 +1,4 @@
-# ACQUISITION OF LEAF POINT CLOUD DATA VIA STEREO IMAGES AND COMPUTER VISION METHODS
+# Acquisition of Leaf Point Cloud Data Via Stereo Images and Computer Vision Methods
 
 ## Project Overview
 
