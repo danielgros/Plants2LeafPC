@@ -1,4 +1,4 @@
-# Acquisition of Leaf Point Cloud Data Via Stereo Images and Computer Vision Methods
+# Plants2LeafPC: Acquisition of Leaf Point Cloud Data Via Stereo Images and Computer Vision Methods
 
 ## Project Overview
 
