@@ -40,6 +40,10 @@ def main():
     runtime = sl.RuntimeParameters()
     mat = sl.Mat()
     err = cam.grab(runtime)
+    
+    fc = open("camera_information.txt", "w")
+    fc.write(cam.getCameraInformation())
+    fc.close()
 
     cam.retrieve_image(mat, sl.VIEW.LEFT)
     fd = cv2.imwrite(output_path_image, mat.get_data())
