@@ -41,9 +41,9 @@ def main():
     mat = sl.Mat()
     err = cam.grab(runtime)
     
-    fc = open("camera_information.txt", "w")
-    fc.write(cam.getCameraInformation())
-    fc.close()
+    # fc = open("camera_information.txt", "w")
+    # fc.write(cam.get_camera_information())
+    # fc.close()
 
     cam.retrieve_image(mat, sl.VIEW.LEFT)
     fd = cv2.imwrite(output_path_image, mat.get_data())
@@ -105,9 +105,9 @@ def main():
     minX = abs(minX)
     minY = abs(minY)
 
-    for i in range(0, len(pc_list)):
-        pc_list[i][0] += minX
-        pc_list[i][1] += minY
+    # for i in range(0, len(pc_list)):
+    #     pc_list[i][0] += minX
+    #     pc_list[i][1] += minY
 
     with open(output_path_pc, 'wb') as f:
         pickle.dump(pc_list, f)
