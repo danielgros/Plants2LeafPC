@@ -34,6 +34,8 @@
 ./backupdataincase/sample/output
 ./backupdataincase/sample-data
 ./backupdataincase/sample-data/output
+./.github
+./.github/workflows
 ./09-get-edge-points
 ./09-get-edge-points/src
 ./09-get-edge-points/validation
