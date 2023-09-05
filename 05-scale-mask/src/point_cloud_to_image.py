@@ -25,7 +25,7 @@ def pointCloudToImage():
     width = int((height/9)*16)
     img = np.zeros([height,width,3])
     overlap = np.zeros([height,width])
-    with open('../data/pc_2023-01-31_08.00.00_png_ultra.csv', mode = 'r') as file:
+    with open('../data/pc_ruler_bottom_150_png_ultra.csv', mode = 'r') as file:
         reader = csv.reader(file)
         points = []
         dict = {}
@@ -74,6 +74,6 @@ def pointCloudToImage():
 
     # cv2.imshow("image",img)
     # cv2.waitKey(0)
-    cv2.imwrite("../data/projected_image_new.png", img)
+    cv2.imwrite("../data/projected_image_ruler_bottom_150_png_ultra.png", img)
 
 pointCloudToImage()
