@@ -105,4 +105,7 @@ def pointCloudToImage():
 
     cv2.imwrite("../data/projected_image_2023-01-31_08.00.00_png_ultra.png", img)
 
-pointCloudToImage()
+
+
+if __name__ == "__main__":
+    pointCloudToImage()
