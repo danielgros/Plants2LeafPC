@@ -19,8 +19,8 @@
 ########################################################################
 
 import sys
-import pyzed.sl as sl
 from signal import signal, SIGINT
+from pyzed import sl
 
 cam = sl.Camera()
 
@@ -34,7 +34,7 @@ signal(SIGINT, handler)
 def main():
     if not sys.argv or len(sys.argv) != 2:
         print("Only the path of the output SVO file should be passed as argument.")
-        exit(1)
+        sys.exit(1)
 
     init = sl.InitParameters()
     init.camera_resolution = sl.RESOLUTION.HD2K
@@ -46,14 +46,14 @@ def main():
     status = cam.open(init)
     if status != sl.ERROR_CODE.SUCCESS:
         print(repr(status))
-        exit(1)
+        sys.exit(1)
 
     path_output = sys.argv[1]
     recording_param = sl.RecordingParameters(path_output, sl.SVO_COMPRESSION_MODE.LOSSLESS)
     err = cam.enable_recording(recording_param)
     if err != sl.ERROR_CODE.SUCCESS:
         print(repr(status))
-        exit(1)
+        sys.exit(1)
 
     runtime = sl.RuntimeParameters()
     cam.set_camera_settings(sl.VIDEO_SETTINGS.BRIGHTNESS, -1)

@@ -1,4 +1,3 @@
-"""
 ########################################################################
 #
 # Copyright (c) 2022, STEREOLABS.
@@ -18,7 +17,6 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 ########################################################################
-"""
 
 import sys
 from signal import signal, SIGINT
@@ -36,11 +34,11 @@ signal(SIGINT, handler)
 def main():
     if not sys.argv or len(sys.argv) != 2:
         print("Only the path of the output SVO file should be passed as argument.")
-        exit(1)
+        sys.exit(1)
 
     init = sl.InitParameters()
     init.camera_resolution = sl.RESOLUTION.HD2K
-    init.depth_mode = sl.DEPTH_MODE.NEURAL
+    init.depth_mode = sl.DEPTH_MODE.ULTRA
     init.sdk_verbose = 1
     init.sdk_verbose_log_file = "/home/user/Documents/svo_recording/sdk_log_file/log_file"
     # other initial parameters have been left blank because default value is adequate
@@ -48,14 +46,14 @@ def main():
     status = cam.open(init)
     if status != sl.ERROR_CODE.SUCCESS:
         print(repr(status))
-        exit(1)
+        sys.exit(1)
 
     path_output = sys.argv[1]
     recording_param = sl.RecordingParameters(path_output, sl.SVO_COMPRESSION_MODE.H265)
     err = cam.enable_recording(recording_param)
     if err != sl.ERROR_CODE.SUCCESS:
         print(repr(status))
-        exit(1)
+        sys.exit(1)
 
     runtime = sl.RuntimeParameters()
     cam.set_camera_settings(sl.VIDEO_SETTINGS.BRIGHTNESS, -1)
