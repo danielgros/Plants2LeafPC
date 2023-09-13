@@ -67,8 +67,8 @@ def removeHorizontalBlackLines(img):
     return new_img
 
 def pointCloudToImage():
-    height = 1440
-    width = int((height/9)*16)
+    left_image = cv2.imread('../data/left_photo_2023-01-31_08.00.00_png_ultra.jpg')
+    height, width, channels = left_image.shape
     img = np.zeros([height,width,3])
     overlap = np.zeros([height,width])
     with open('../data/pc_2023-01-31_08.00.00_png_ultra.csv', mode = 'r') as file:
