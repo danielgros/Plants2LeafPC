@@ -104,7 +104,10 @@ def pointCloudToImage():
     left_image = cv2.imread('../data/left_photo_2023-01-31_08.00.00_png_ultra.jpg')
     height, width, channels = left_image.shape
     img = np.zeros([height,width,3])
-    point_cloud = np.zeros([height,width,3])
+    point_cloud = np.empty((height,width),dtype=object)
+    for i in range(height):
+        for j in range(width):
+            point_cloud[i, j] = []
     overlap = np.zeros([height,width])
     with open('../data/pc_2023-01-31_08.00.00_png_ultra.csv', mode = 'r') as file:
         reader = csv.reader(file)
@@ -134,6 +137,7 @@ def pointCloudToImage():
             img[y_pos,x_pos,0] += r
             img[y_pos,x_pos,1] += g
             img[y_pos,x_pos,2] += b
+            point_cloud[y_pos, x_pos].append(lines)
             overlap[y_pos,x_pos] += 1
     for r in range(0,height):
         for c in range(0,width):
