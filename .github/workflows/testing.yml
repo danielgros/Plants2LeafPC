@@ -1,0 +1,42 @@
+name: Project Tests
+
+# on: [push]
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test_project:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Mask_RCNN/samples/Plant2LeafPC
+    steps:
+
+      - name: Checkout Matterport's Mask RCNN
+        uses: actions/checkout@v4
+        with:
+          repository: matterport/Mask_RCNN
+          ref: 'master'
+          path: 'Mask_RCNN'
+
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: 'Mask_RCNN/samples/Plant2LeafPC'
+
+      # - name: Set up Miniconda
+      #   uses: conda-incubator/setup-miniconda@v2
+
+      # - name: Conda Virtual Environment Setup
+      #   run: |
+      #       conda env create -f setup/base_env.yml
+      #       conda env create -f setup/ml_model_env.yml
+      #       conda env create -f setup/other_env.yml
+      
+      # - name: Docker Image Download
+      #   run: docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
+      # - name: Docker Container Setup
+      #   run: docker run --gpus all --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
+      # - name: Exit Docker Container
+      #   run: exit
