@@ -20,7 +20,7 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
         with:
-          path: 'samples/Plant2LeafPC'
+          path: 'Mask_RCNN/samples/Plant2LeafPC'
 
       - run: tree
       - run: tree ..
