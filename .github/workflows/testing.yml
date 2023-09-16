@@ -37,6 +37,6 @@ jobs:
       - name: Docker Image Download
         run: docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
       - name: Docker Container Setup
-        run: docker run --gpus all -it --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
+        run: docker run --gpus all --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
       - name: Exit Docker Container
         run: exit
