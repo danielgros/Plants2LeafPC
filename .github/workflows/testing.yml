@@ -25,20 +25,14 @@ jobs:
         with:
           path: 'Mask_RCNN/samples/Plant2LeafPC'
 
-      - name: Set up Miniconda
-        uses: conda-incubator/setup-miniconda@v2
+      # - name: Set up Miniconda
+      #   uses: conda-incubator/setup-miniconda@v2
 
-      - run: ls
-
-      - name: Conda Virtual Environment Setup
-        run: |
-            conda env create -f setup/base_env.yml
-            conda env create -f setup/ml_model_env.yml
-            conda env create -f setup/other_env.yml
-      # - name: Conda Virtual Environment Setup - ML Model
-      #   run: 
-      # - name: Conda Virtual Environment Setup - Other
-      #   run: 
+      # - name: Conda Virtual Environment Setup
+      #   run: |
+      #       conda env create -f setup/base_env.yml
+      #       conda env create -f setup/ml_model_env.yml
+      #       conda env create -f setup/other_env.yml
       
       - name: Docker Image Download
         run: docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
