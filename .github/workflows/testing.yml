@@ -16,15 +16,13 @@ jobs:
           repository: matterport/Mask_RCNN
           ref: 'master'
 
-      - name: Navigate to samples Directory
-        run: cd samples
-
       - name: Checkout this repo
         uses: actions/checkout@v4
         with:
-          path: 'Mask_RCNN/samples'
+          path: 'samples'
 
       - run: ls
+      - run: ls samples
 
       - name: Conda Virtual Environment Setup - Base
         run: conda env create -f setup/base_env.yml
