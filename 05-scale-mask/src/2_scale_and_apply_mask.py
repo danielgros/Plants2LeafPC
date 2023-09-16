@@ -6,11 +6,11 @@ def scale_mask(mask, new_height, new_width):
     y, x, z = np.array(mask).shape
 
     # Calculate scaling factors
-    x_scale = new_width / x
     y_scale = new_height / y
+    x_scale = new_width / x
 
     # Scale the mask using nearest-neighbor interpolation
-    scaled_mask = zoom(mask, (x_scale, y_scale, 1), order=0)
+    scaled_mask = zoom(mask, (y_scale, x_scale, 1), order=0)
 
     # Convert the scaled mask to boolean values (True/False)
     scaled_mask = scaled_mask >= 0.5
