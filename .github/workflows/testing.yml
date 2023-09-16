@@ -20,6 +20,9 @@ jobs:
         with:
           path: 'Mask_RCNN/samples'
 
+      - name: Navigate to Home Directory
+        run: cd Mask_RCNN/samples/Plants2LeafPC
+
       - name: Conda Virtual Environment Setup - Base
         run: conda env create -f setup/base_env.yml
       - name: Conda Virtual Environment Setup - ML Model
