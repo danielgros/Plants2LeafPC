@@ -3,7 +3,7 @@ name: Project Tests
 # on: [push]
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   test_project:
@@ -33,7 +33,7 @@ jobs:
       #       conda env create -f setup/base_env.yml
       #       conda env create -f setup/ml_model_env.yml
       #       conda env create -f setup/other_env.yml
-      
+
       # - name: Docker Image Download
       #   run: docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
       # - name: Docker Container Setup
