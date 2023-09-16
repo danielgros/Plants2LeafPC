@@ -1,3 +1,7 @@
+"""
+explain this file
+"""
+
 ########################################################################
 #
 # Copyright (c) 2022, STEREOLABS.
@@ -24,6 +28,9 @@ from pyzed import sl
 
 cam = sl.Camera()
 
+"""
+explain this function
+"""
 def handler(signal_received, frame):
     cam.disable_recording()
     cam.close()
@@ -31,6 +38,10 @@ def handler(signal_received, frame):
 
 signal(SIGINT, handler)
 
+
+'''
+explain this function
+'''
 def main():
     if not sys.argv or len(sys.argv) != 2:
         print("Only the path of the output SVO file should be passed as argument.")
