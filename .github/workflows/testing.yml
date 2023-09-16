@@ -8,6 +8,7 @@ jobs:
   test_project:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout Matterport's Mask RCNN
         uses: actions/checkout@v4
         with:
@@ -17,6 +18,17 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: 'Mask_RCNN/samples'
-      # - run: 
-      # - run: 
-      # - run: 
+
+      - name: Conda Virtual Environment Setup - Base
+        run: conda env create -f setup/base_env.yml
+      - name: Conda Virtual Environment Setup - ML Model
+        run: conda env create -f setup/ml_model_env.yml
+      - name: Conda Virtual Environment Setup - Other
+        run: conda env create -f setup/other_env.yml
+      
+      - name: Docker Image Download
+        run: docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
+      - name: Docker Container Setup
+        run: docker run --gpus all -it --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
+      - name: Exit Docker Container
+        run: exit

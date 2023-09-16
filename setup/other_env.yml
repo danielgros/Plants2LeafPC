@@ -1,4 +1,4 @@
-name: new_ml_model
+name: other
 channels:
   - defaults
   - conda-forge
