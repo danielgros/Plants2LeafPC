@@ -15,6 +15,7 @@ jobs:
         with:
           repository: matterport/Mask_RCNN
           ref: 'master'
+          path: 'Mask_RCNN'
 
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -23,6 +24,8 @@ jobs:
 
       - run: tree
       - run: tree ..
+      - run: cd ..
+      - run: ls
       - run: cd Mask_RCNN/samples
       - run: ls
 
