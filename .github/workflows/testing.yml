@@ -1,0 +1,22 @@
+name: Project Tests
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test_project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Matterport's Mask RCNN
+        uses: actions/checkout@v4
+        with:
+          repository: matterport/Mask_RCNN
+          ref: 'main'
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: 'Mask_RCNN/samples'
+      # - run: 
+      # - run: 
+      # - run: 
