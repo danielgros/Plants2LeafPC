@@ -2,6 +2,7 @@ import numpy as np
 import cv2
 import csv
 import math
+import pickle
 
 def getMaxDegrees(reader):
     max_x_degree, min_x_degree, max_y_degree, min_y_degree = -math.inf, math.inf, -math.inf, math.inf
@@ -151,6 +152,12 @@ def pointCloudToImage():
     img = removeHorizontalBlackLines(img)
 
     cv2.imwrite("../data/projected_image_2023-01-31_08.00.00_png_ultra.png", img)
+
+    output_filename = '../data/projected_image_data.txt'
+
+    with open(output_filename, 'wb') as f:
+        pickle.dump(point_cloud, f)
+
 
 
 
