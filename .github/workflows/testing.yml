@@ -15,11 +15,12 @@ jobs:
         with:
           repository: matterport/Mask_RCNN
           ref: 'master'
+      - run: ls
       - name: Checkout this repo
         uses: actions/checkout@v4
         with:
           path: 'Mask_RCNN/samples'
-
+      - run: ls
       - name: Navigate to Home Directory
         run: cd Mask_RCNN/samples/Plants2LeafPC
 
