@@ -8,6 +8,9 @@ on: [push]
 jobs:
   test_project:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Mask_RCNN/samples/Plant2LeafPC
     steps:
 
       - name: Checkout Matterport's Mask RCNN
@@ -21,12 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: 'Mask_RCNN/samples/Plant2LeafPC'
-
-      - run: tree
-      - run: tree ..
-      - run: cd ..
-      - run: ls
-      - run: cd Mask_RCNN/samples
+          
       - run: ls
 
       - name: Conda Virtual Environment Setup - Base
