@@ -24,7 +24,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: 'Mask_RCNN/samples/Plant2LeafPC'
-          
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v2
+
       - run: ls
 
       - name: Conda Virtual Environment Setup - Base
