@@ -1,4 +1,4 @@
-name: base
+name: base_other
 channels:
   - defaults
   - conda-forge

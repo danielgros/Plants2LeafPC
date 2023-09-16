@@ -30,12 +30,15 @@ jobs:
 
       - run: ls
 
-      - name: Conda Virtual Environment Setup - Base
-        run: conda env create -f setup/base_env.yml
-      - name: Conda Virtual Environment Setup - ML Model
-        run: conda env create -f setup/ml_model_env.yml
-      - name: Conda Virtual Environment Setup - Other
-        run: conda env create -f setup/other_env.yml
+      - name: Conda Virtual Environment Setup
+        run: |
+            conda env create -f setup/base_env.yml
+            conda env create -f setup/ml_model_env.yml
+            conda env create -f setup/other_env.yml
+      # - name: Conda Virtual Environment Setup - ML Model
+      #   run: 
+      # - name: Conda Virtual Environment Setup - Other
+      #   run: 
       
       - name: Docker Image Download
         run: docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
