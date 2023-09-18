@@ -164,9 +164,14 @@ def removeHorizontalBlackLines(img):
 
 
 def pointCloudToImage():
+
+    # left_image_path = sys.argv[1]
+    # point_cloud_path = sys.argv[2]
+
+
     # Suppress the 'no-member' error for cv2.imread
     # pylint: disable=no-member
-    left_image = cv2.imread("../data/left_photo_2023-01-31_08.00.00_png_ultra.jpg")
+    left_image = cv2.imread("../data/raw/left_photo_2023-01-31_08.00.00_png_ultra.jpg")
     height, width, _ = left_image.shape
     img = np.zeros([height, width, 3])
     point_cloud = np.empty((height, width), dtype=object)
@@ -212,7 +217,7 @@ def pointCloudToImage():
     # pylint: disable=no-member
     cv2.imwrite("../data/projected_image_2023-01-31_08.00.00_png_ultra.png", img)
 
-    output_filename = "../data/projected_image_data.txt"
+    output_filename = "../data/projected_image_data_2023-01-31_08.00.00_png_ultra.txt"
 
     with open(output_filename, "wb") as f:
         pickle.dump(point_cloud, f)
