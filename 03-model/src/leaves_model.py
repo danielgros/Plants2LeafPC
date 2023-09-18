@@ -12,7 +12,7 @@ Usage: import the module (see Jupyter notebooks for examples), or run from
        the command line as such:
 
     # Train a new model starting from pre-trained COCO weights
-    python3 leaves_model.py train --dataset=../dataset --weights=coco
+    python3 leaves_model.py train --dataset=../data --weights=coco
 
     # Resume training a model that you had trained earlier
     python3 leaves_model.py train --dataset=/path/to/leaves_model/dataset --weights=last
@@ -129,7 +129,7 @@ class LeavesDataset(utils.Dataset):
             if type(a['regions']) is dict:
                 polygons = [r['shape_attributes'] for r in a['regions'].values()]
             else:
-                polygons = [r['shape_attributes'] for r in a['regions']] 
+                polygons = [r['shape_attributes'] for r in a['regions']]
 
             # load_mask() needs the image size to convert polygons to masks.
             # Unfortunately, VIA doesn't include it in JSON, so we must read

@@ -1,9 +1,9 @@
-import cv2
 import numpy as np
-import pyzed.sl as sl
+from pyzed import sl # pylint: import-error
 import pickle
 import re
 import sys
+import cv2
 
 
 import struct
@@ -23,7 +23,7 @@ def main():
     end = -4
     svo_file_path = svo_input_path[beginning:middle_before_svo_folder] + "output/"
     svo_file_name = svo_input_path[middle_after_svo_folder:end]
-    
+
     output_path_pc = svo_file_path + "pc_" + svo_file_name + ".txt"
     output_path_image = svo_file_path + "left_photo_" + svo_file_name + ".jpg"
 
@@ -40,12 +40,14 @@ def main():
     runtime = sl.RuntimeParameters()
     mat = sl.Mat()
     err = cam.grab(runtime)
-    
+
     # fc = open("camera_information.txt", "w")
     # fc.write(cam.get_camera_information())
     # fc.close()
 
     cam.retrieve_image(mat, sl.VIEW.LEFT)
+    # Suppress the 'no-member' error for cv2.imwrite
+    # pylint: disable=no-member
     fd = cv2.imwrite(output_path_image, mat.get_data())
 
     cam.retrieve_measure(mat, sl.MEASURE.XYZRGBA)
@@ -69,10 +71,10 @@ def main():
             if not np.isnan(val[0]) and not np.isinf(val[0]):
 
                 # temporary cutoff values to help with mask scaling -> should be removed in future after mask scaling method is improved
-                if (val[0] < -2150 or val[0] > 3095):
-                    continue
-                if (val[1] < -1300 or val[1] > 1200):
-                    continue
+                # if (val[0] < -2150 or val[0] > 3095):
+                #     continue
+                # if (val[1] < -1300 or val[1] > 1200):
+                #     continue
 
                 if minX > val[0]:
                     minX = val[0]
@@ -88,7 +90,7 @@ def main():
                 if maxZ < val[2]:
                     maxZ = val[2]
 
-                # g = str(val[0:3])+'  ' 
+                # g = str(val[0:3])+'  '
                 # filed.write(g)
                 colorVal = binaryX(val[3])
                 A, R, G, B = (colorVal[0:8], colorVal[8:16], colorVal[16:24], colorVal[24:32])

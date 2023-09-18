@@ -32,7 +32,7 @@ LEAVES_MODEL_WEIGHTS_PATH = os.path.join(ROOT_DIR, "logs/leaves_model20230819T23
 
 
 config = leaves_model.LeavesConfig()
-LEAVES_MODEL_DIR = os.path.join(ROOT_DIR, "samples/plants_to_leaf_area/3-model/dataset")
+LEAVES_MODEL_DIR = os.path.join(ROOT_DIR, "samples/plants_to_leaf_area/03-model/data")
 
 
 # Override the training configurations with a few
@@ -47,7 +47,7 @@ config.display()
 
 
 # Device to load the neural network on.
-# Useful if you're training a model on the same 
+# Useful if you're training a model on the same
 # machine, in which case use CPU and leave the
 # GPU for training.
 DEVICE = "/cpu:0"  # /cpu:0 or /gpu:0

@@ -2,7 +2,7 @@ import os
 import json
 
 INPUT_DIR = os.path.abspath("../data")
-OUTPUT_DIR = os.path.abspath("../../3-model/dataset")
+OUTPUT_DIR = os.path.abspath("../../03-model/data")
 
 # OLD FILES
 ANNOT_TRAIN_DIR = os.path.join(INPUT_DIR, "annots/train")

@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "running script"
-cp ../data/images/train/* ../../3-model/dataset/train/
-cp ../data/images/val/* ../../3-model/dataset/val/
+cp ../data/images/train/* ../../03-model/data/train/
+cp ../data/images/val/* ../../03-model/data/val/
 python3 "2_annots_transformation.py"
