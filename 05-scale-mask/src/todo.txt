@@ -1,6 +1,0 @@
-1. understand code
-2. with image, also make each position in the 2d array hold all the point cloud information
-3. scale the mask to the dimensions of the projected_image
-4. apply the scaled mask on the 2d array -> two new 2d arrays: one with change color for leaf, one with only leaf
-5. convert the new 2d array back to the point cloud structure
-6. point cloud to csv conversion

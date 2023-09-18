@@ -1,3 +1,9 @@
+#
+# The environment is not setup to be able to run this file
+# This file needs to be downloaded to your local machine
+# requirements: python > 3.8, open3d, pandas
+#
+
 import numpy as np
 import open3d as o3d
 import pandas as pd

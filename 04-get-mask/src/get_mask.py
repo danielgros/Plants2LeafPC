@@ -17,10 +17,10 @@ import mrcnn.model as modellib
 from mrcnn.model import log
 
 import importlib
-module_name = "samples.plants_to_leaf_area.3-model.src.leaves_model"
+module_name = "samples.plants_to_leaf_area.03-model.src.leaves_model"
 leaves_model_module = importlib.import_module(module_name)
 leaves_model = leaves_model_module
-# from samples.plants_to_leaf_area.3-model.src.leaves_model import leaves_model
+# from samples.plants_to_leaf_area.03-model.src.leaves_model import leaves_model
 
 # Directory to save logs and trained model
 MODEL_DIR = os.path.join(ROOT_DIR, "logs")
@@ -128,6 +128,6 @@ for rowIndex, rowValue in enumerate(rawMasks):
 
 
 # output
-output_path = "../data/masks.txt"
+output_path = "../data/processed/masks_" + info["id"] + ".txt"
 with open(output_path, 'wb') as f:
     pickle.dump(masks, f)

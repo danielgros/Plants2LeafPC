@@ -75,3 +75,7 @@ ________________________________________________________
 
 add to other virtual environment being able to process open3d visualization
 recreate virtual environments: model to just do model, other to do everything else, install zed sdk instead of docker contianer????? maybe not cause of cuda version and stuff
+
+
+
+simplify validation, there should be one file that runs and does the work and maybe calls on the utils files instead of so many symbolic links?
