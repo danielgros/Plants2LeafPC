@@ -67,3 +67,11 @@ ZED needs to be accurate at different distances
 -----
 
 show comparison of segmented leave with depth image
+
+
+
+________________________________________________________
+
+
+add to other virtual environment being able to process open3d visualization
+recreate virtual environments: model to just do model, other to do everything else, install zed sdk instead of docker contianer????? maybe not cause of cuda version and stuff
