@@ -14,7 +14,9 @@ printf '%s\n' "${files[@]##*/}"
 
 for file in "${files[@]}";
 do
-    if [[ $file == *".txt"* ]]; then
+    filename="${file##*/}"
+    echo "$filename"
+    if [[ $filename == *".txt"* ]] && [[ $filename == "pc"* ]]; then
         echo "$file"
         python3 pc_to_csv.py "$file"
     fi

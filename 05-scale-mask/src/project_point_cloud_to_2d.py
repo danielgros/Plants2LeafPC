@@ -3,6 +3,7 @@ import math
 import pickle
 import cv2
 import numpy as np
+import sys
 
 
 def getMaxDegrees(reader):
@@ -165,13 +166,15 @@ def removeHorizontalBlackLines(img):
 
 def pointCloudToImage():
 
-    # left_image_path = sys.argv[1]
-    # point_cloud_path = sys.argv[2]
+    left_image_path = sys.argv[1]
+    point_cloud_path = sys.argv[2]
+    projected_image_path = sys.argv[3]
+    projected_image_data_path = sys.argv[4]
 
 
     # Suppress the 'no-member' error for cv2.imread
     # pylint: disable=no-member
-    left_image = cv2.imread("../data/raw/left_photo_2023-01-31_08.00.00_png_ultra.jpg")
+    left_image = cv2.imread(left_image_path)
     height, width, _ = left_image.shape
     img = np.zeros([height, width, 3])
     point_cloud = np.empty((height, width), dtype=object)
@@ -180,12 +183,12 @@ def pointCloudToImage():
             point_cloud[i, j] = []
     overlap = np.zeros([height, width])
     with open(
-        "../data/pc_2023-01-31_08.00.00_png_ultra.csv", mode="r", encoding=str
+        point_cloud_path, mode="r"
     ) as file:
         reader = csv.reader(file)
         max_x_degree, min_x_degree, max_y_degree, min_y_degree = getMaxDegrees(reader)
     with open(
-        "../data/pc_2023-01-31_08.00.00_png_ultra.csv", mode="r", encoding=str
+        point_cloud_path, mode="r"
     ) as file:
         reader = csv.reader(file)
 
@@ -215,9 +218,9 @@ def pointCloudToImage():
 
     # Suppress the 'no-member' error for cv2.imwrite
     # pylint: disable=no-member
-    cv2.imwrite("../data/projected_image_2023-01-31_08.00.00_png_ultra.png", img)
+    cv2.imwrite(projected_image_path, img)
 
-    output_filename = "../data/projected_image_data_2023-01-31_08.00.00_png_ultra.txt"
+    output_filename = projected_image_data_path
 
     with open(output_filename, "wb") as f:
         pickle.dump(point_cloud, f)

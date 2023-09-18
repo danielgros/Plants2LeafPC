@@ -1,6 +1,7 @@
 import pickle
 import numpy as np
 from scipy.ndimage import zoom
+import sys
 
 def scale_mask(mask, new_height, new_width):
     y, x, z = np.array(mask).shape
@@ -26,10 +27,10 @@ def scale_mask(mask, new_height, new_width):
 
 
 def main():
-    # mask_path = sys.argv[1]
-    # point_cloud_path = sys.argv[2]
+    mask_path = sys.argv[1]
+    point_cloud_data_path = sys.argv[2]
+    scaled_mask_path = sys.argv[3]
 
-    mask_path = "../data/masks.txt"
     with open(mask_path, 'rb') as f:
         masks = pickle.load(f)
 
@@ -37,7 +38,6 @@ def main():
     list_keys = list(masks.keys())
     print(np.array(masks[list(masks.keys())[0]]).shape)
 
-    point_cloud_data_path = "../data/projected_image_data.txt"
     with open(point_cloud_data_path, 'rb') as f:
         point_cloud_data = pickle.load(f)
 
@@ -49,10 +49,7 @@ def main():
     for mask_key in list_keys:
         scaled_mask[mask_key] = scale_mask(masks[mask_key], projected_image_height, projected_image_width)
 
-
-    output_filename = '../data/scaled_mask.txt'
-
-    with open(output_filename, 'wb') as f:
+    with open(scaled_mask_path, 'wb') as f:
         pickle.dump(scaled_mask, f)
 
 
