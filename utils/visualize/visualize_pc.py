@@ -8,7 +8,7 @@ Read and transform the dataframe
 '''
 #  Read the csv with the weather metadata with Pandas
 dataset_path = sys.argv[1]
-dataset = pd.read_csv(dataset_path)  
+dataset = pd.read_csv(dataset_path)
 print(dataset.head())
 
 # Transform the DateTime column into a datetime format
@@ -31,7 +31,7 @@ vis.create_window(window_name='Statistic Visualize', width=800, height=600)
 
 # Initialize a point cloud object
 pcd = o3d.geometry.PointCloud()
-# Tranform the numpy array into points for the point cloud 
+# Tranform the numpy array into points for the point cloud
 pcd.points = o3d.utility.Vector3dVector(dataset_scatter)
 pcd.colors = o3d.utility.Vector3dVector(dataset_scatter_color)
 # Add the point cloud to the visualizer
@@ -52,4 +52,4 @@ ctrl = vis.get_view_control()
 vis.run()
 # Once the visualizer is closed destroy the window and clean up
 vis.destroy_window()
-print(dataset_scatter[vis.get_picked_points()]) 
+print(dataset_scatter[vis.get_picked_points()])

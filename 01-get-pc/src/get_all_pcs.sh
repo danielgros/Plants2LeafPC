@@ -1,8 +1,11 @@
 #!/bin/bash
 
+if [ $# -eq 0 ]; then
+  echo "Usage: $0 <source_dir>"
+  exit 1
+fi
 
-
-SOURCE_DIR=../data/data-collection-room-1/used_svo
+SOURCE_DIR="$1"
 files=(
    "$SOURCE_DIR"/*
 )
@@ -16,7 +19,7 @@ do
         python3 get_pc.py "$file"
     fi
 
-done		
+done
 
 # for file in "${files[@]}";
 # do
@@ -25,4 +28,4 @@ done
 #         python3 "get_pc.py" "$file"
 #     fi
 
-# done	
+# done

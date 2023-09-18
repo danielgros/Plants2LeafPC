@@ -1,7 +1,11 @@
 #!/bin/bash
 
+if [ $# -eq 0 ]; then
+  echo "Usage: $0 <source_dir>"
+  exit 1
+fi
 
-SOURCE_DIR=../data/camera-callibration-new/output
+SOURCE_DIR="$1"
 files=(
    "$SOURCE_DIR"/*
 )
@@ -14,5 +18,4 @@ do
         echo "$file"
         python3 pc_to_csv.py "$file"
     fi
-
-done		
+done
