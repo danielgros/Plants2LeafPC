@@ -28,7 +28,7 @@ MODEL_DIR = os.path.join(ROOT_DIR, "logs")
 # Path to Ballon trained weights
 # You can download this file from the Releases page
 # https://github.com/matterport/Mask_RCNN/releases
-LEAVES_MODEL_WEIGHTS_PATH = os.path.join(ROOT_DIR, "logs/leaves_model20230819T2343") # TODO: update this path
+LEAVES_MODEL_WEIGHTS_PATH = os.path.join(ROOT_DIR, "logs/leaves_model20230918T1246") # TODO: update this path
 
 
 config = leaves_model.LeavesConfig()

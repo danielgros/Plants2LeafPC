@@ -1,25 +1,29 @@
 import numpy as np
 from PIL import Image
 import pickle
+import sys
 
-mask_path = '../data/masks.txt'
+mask_path = sys.argv[1]
+image_path = sys.argv[2]
 
 with open(mask_path, 'rb') as f:
     masks = pickle.load(f)
 
-mask = masks[list(masks.keys())[2]]
+for mask_key in masks.keys():
 
-# Conver the list to a numpy array
-array = np.array(mask)
+    mask = masks[mask_key]
 
-# Convert true to black and false to white
-array = np.where(array, 0, 255)
+    # Conver the list to a numpy array
+    array = np.array(mask)
 
-# Reshape the array to remove singleton dimension
-array = array.squeeze()
+    # Convert true to black and false to white
+    array = np.where(array, 0, 255)
 
-# Convert the numpy array to a PIL image
-image = Image.fromarray(array.astype('uint8'), 'L')  # 'L' mode for grayscale
+    # Reshape the array to remove singleton dimension
+    array = array.squeeze()
 
-# Save the image
-image.save('../data/validation/output/leaf_image_black_and_white.jpg')
+    # Convert the numpy array to a PIL image
+    image = Image.fromarray(array.astype('uint8'), 'L')  # 'L' mode for grayscale
+
+    # Save the image
+    image.save(image_path + mask_key + ".jpg")
