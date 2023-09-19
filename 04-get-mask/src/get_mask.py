@@ -135,44 +135,22 @@ for image_id in image_ids:
 
     # resize mask
 
-    # output
-    output_path = "../data/processed/masks_" + info["id"][:-4] + ".txt"
-    with open(output_path, "wb") as f:
-        pickle.dump(masks, f)
+
 
     height_mask, width_mask, _ = r["masks"].shape
 
-    rois = np.zeros((1, 4))
-    masks = np.zeros((height_mask, width_mask, 1))
-    class_ids = np.zeros((1))
-    class_names = dataset.class_names
+    display_instances_rois = np.zeros((1, 4))
+    display_instances_masks = np.zeros((height_mask, width_mask, 1))
+    display_instances_class_ids = np.zeros((1))
+    display_instances_class_names = dataset.class_names
 
     visualize.display_instances(
         image,
-        rois,
-        masks,
-        class_ids,
-        class_names,
-        # save_path="../data/processed/resized_image_" + info["id"][:-4] + ".jpg",
+        display_instances_rois,
+        display_instances_masks,
+        display_instances_class_ids,
+        display_instances_class_names,
     )
-
-    # Get the dimensions of the image
-    # height, width, _ = cv2.imread(
-    #     "../data/processed/resized_image_" + info["id"][:-4] + ".jpg"
-    # ).shape
-
-    # # Calculate the starting coordinates for the middle 1024x1024 crop
-    # start_width = (width - width_mask) // 2
-    # start_height = (height - height_mask) // 2
-
-    # print("start_width", start_width)
-    # print("start_height", start_height)
-
-    # # Crop the middle 1024x1024 portion of the image
-    # # cropped_image = image[
-    # #     start_height : start_height + height_mask,
-    # #     start_width : start_width + width_mask,
-    # # ]
 
     # Save or display the cropped image
     cv2.imwrite("../data/processed/resized_image_" + info["id"][:-4] + ".jpg", image)
@@ -183,18 +161,34 @@ for image_id in image_ids:
     gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
     # Define a threshold to separate black bars from the content
-    threshold = 2  # Adjust this value as needed
+    threshold = 20
 
     # Find the coordinates of the top and bottom black bars
-    top_black_bar = np.argmax(np.sum(gray_image <= threshold, axis=1) > 0)
+    top_black_bar = np.argmax(np.sum(gray_image <= threshold, axis=1) < 1024)
+    print("top_black_bar", top_black_bar)
     bottom_black_bar = gray_image.shape[0] - np.argmax(
-        np.sum(gray_image[::-1] <= threshold, axis=1) > 0
-    )
+        np.sum(gray_image[::-1] <= threshold, axis=1) < 1024)
+    print("bottom_black_bar", bottom_black_bar)
 
     # Crop the image to remove the black bars
     cropped_image = image[top_black_bar:bottom_black_bar, :]
+
+    # crop masks
+    for mask_key in listKeys:
+        print(mask_key)
+        print(np.array(masks[mask_key]).shape)
+        masks[mask_key] = masks[mask_key][top_black_bar:bottom_black_bar]
+        print(np.array(masks[mask_key]).shape)
+
 
     # Save or display the cropped image
     cv2.imwrite(
         "../data/processed/resized_image_" + info["id"][:-4] + ".jpg", cropped_image
     )
+
+
+
+    # output
+    output_path = "../data/processed/masks_" + info["id"][:-4] + ".txt"
+    with open(output_path, "wb") as f:
+        pickle.dump(masks, f)
