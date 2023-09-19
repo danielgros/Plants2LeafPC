@@ -134,9 +134,6 @@ for image_id in image_ids:
                 masks[key][rowIndex][columnIndex].append(maskValue)
 
     # resize mask
-
-
-
     height_mask, width_mask, _ = r["masks"].shape
 
     display_instances_rois = np.zeros((1, 4))
@@ -152,7 +149,7 @@ for image_id in image_ids:
         display_instances_class_names,
     )
 
-    # Save or display the cropped image
+    # Save or display the image not cropped
     cv2.imwrite("../data/processed/resized_image_" + info["id"][:-4] + ".jpg", image)
 
     # CROP IMAGE
@@ -181,12 +178,10 @@ for image_id in image_ids:
         print(np.array(masks[mask_key]).shape)
 
 
-    # Save or display the cropped image
+    # Save or display the cropped image for validation
     cv2.imwrite(
-        "../data/processed/resized_image_" + info["id"][:-4] + ".jpg", cropped_image
+        "../data/processed/cropped_image_" + info["id"][:-4] + ".jpg", cropped_image
     )
-
-
 
     # output
     output_path = "../data/processed/masks_" + info["id"][:-4] + ".txt"
