@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Specify the source directory containing the files
-SOURCE_DIR="/hdd/gros2/maskrcnn/samples/plants_to_leaf_area/04-get-mask/data/processed"
+SOURCE_DIR="/hdd/gros2/maskrcnn/samples/plants_to_leaf_area/01-get-pc/data/processed/sample/output"
 
 # Specify the output directory for the symbolic links
 OUTPUT_DIR="/hdd/gros2/maskrcnn/samples/plants_to_leaf_area/05-scale-mask/data/raw"

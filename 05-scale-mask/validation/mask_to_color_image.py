@@ -25,7 +25,7 @@ for mask_key in masks.keys():
     highlighted_image = image.copy()
 
     # Define the highlight color (change this to your desired color)
-    highlight_color = (255, 0, 0, 128)  # Red color
+    highlight_color = (0, 0, 255, 128)  # Blue color
 
     # Create a Pillow draw object
     draw = ImageDraw.Draw(highlighted_image)
