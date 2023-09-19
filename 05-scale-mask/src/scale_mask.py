@@ -16,7 +16,7 @@ def scale_mask(mask, new_height, new_width):
     scaled_mask = zoom(mask, (height_scale, width_scale, 1), order=0, mode='nearest')
 
     # Convert the scaled mask to boolean values (True/False)
-    scaled_mask = scaled_mask >= 0.9
+    scaled_mask = scaled_mask >= 1
 
     return scaled_mask
 
