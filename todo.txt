@@ -79,3 +79,12 @@ recreate virtual environments: model to just do model, other to do everything el
 
 
 simplify validation, there should be one file that runs and does the work and maybe calls on the utils files instead of so many symbolic links?
+
+
+
+-----------------------------------------------
+
+
+for future
+
+train model to also only segment based on 3D spatial coordinates (continuous)
