@@ -166,6 +166,10 @@ def removeHorizontalBlackLines(img):
 
 def pointCloudToImage():
 
+    if len(sys.argv) != 5:
+        print("Usage: python3 project_point_cloud_to_2d.py <left_image_path> <point_cloud_path> <projected_image_path> <projected_image_data_path>")
+        sys.exit(1)
+
     left_image_path = sys.argv[1]
     point_cloud_path = sys.argv[2]
     projected_image_path = sys.argv[3]
