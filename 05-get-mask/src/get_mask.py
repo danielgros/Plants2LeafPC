@@ -19,10 +19,10 @@ from mrcnn.model import log
 
 import importlib
 
-module_name = "samples.plants_to_leaf_area.03-model.src.leaves_model"
+module_name = "samples.plants_to_leaf_area.04-model.src.leaves_model"
 leaves_model_module = importlib.import_module(module_name)
 leaves_model = leaves_model_module
-# from samples.plants_to_leaf_area.03-model.src.leaves_model import leaves_model
+# from samples.plants_to_leaf_area.04-model.src.leaves_model import leaves_model
 
 # Directory to save logs and trained model
 MODEL_DIR = os.path.join(ROOT_DIR, "logs")
@@ -36,7 +36,7 @@ LEAVES_MODEL_WEIGHTS_PATH = os.path.join(
 
 
 config = leaves_model.LeavesConfig()
-LEAVES_MODEL_DIR = os.path.join(ROOT_DIR, "samples/plants_to_leaf_area/03-model/data")
+LEAVES_MODEL_DIR = os.path.join(ROOT_DIR, "samples/plants_to_leaf_area/04-model/data")
 
 
 # Override the training configurations with a few
