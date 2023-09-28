@@ -163,7 +163,6 @@ def removeHorizontalBlackLines(img):
             cur_row += 1
     return new_img
 
-
 def pointCloudToImage():
 
     if len(sys.argv) != 5:
@@ -219,6 +218,10 @@ def pointCloudToImage():
 
     img = removeVerticalBlackLines(img)
     img = removeHorizontalBlackLines(img)
+
+    # fix black lines in different columns FOR LATER
+    # img = removeVerticalBlackLines2(img)
+    # img = removeHorizontalBlackLines2(img)
 
     # Suppress the 'no-member' error for cv2.imwrite
     # pylint: disable=no-member
