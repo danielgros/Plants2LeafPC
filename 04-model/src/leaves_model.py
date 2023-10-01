@@ -218,22 +218,22 @@ def train(model):
     # Since we're using a very small dataset, and starting from
     # COCO trained weights, we don't need to train too long. Also,
     # no need to train all layers, just the heads should do it.
-    print("Training network heads")
-    model.train(
-        dataset_train,
-        dataset_val,
-        learning_rate=config.LEARNING_RATE,
-        epochs=30,
-        augmentation=augmentation,
-        layers="heads",
-    )
+    # print("Training network heads")
+    # model.train(
+    #     dataset_train,
+    #     dataset_val,
+    #     learning_rate=config.LEARNING_RATE,
+    #     epochs=30,
+    #     augmentation=augmentation,
+    #     layers="heads",
+    # )
 
-    # print("Training all layers")
-    # model.train(dataset_train, dataset_val,
-    #             learning_rate=config.LEARNING_RATE,
-    #             epochs=40,
-    #             augmentation=augmentation,
-    #             layers='all')
+    print("Training all layers")
+    model.train(dataset_train, dataset_val,
+                learning_rate=config.LEARNING_RATE,
+                epochs=40,
+                augmentation=augmentation,
+                layers='all')
 
 
 def color_splash(image, mask):
