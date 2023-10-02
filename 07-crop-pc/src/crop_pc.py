@@ -11,7 +11,7 @@ def main():
     mask_file = sys.argv[1]
     projected_image_data_file = sys.argv[2]
     cropped_pc_file = sys.argv[3]
-    emphasized_pc_file = sys.argv[3]
+    emphasized_pc_file = sys.argv[4]
 
     with open(mask_file, 'rb') as f:
         masks = pickle.load(f)

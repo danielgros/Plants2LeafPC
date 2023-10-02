@@ -13,7 +13,8 @@ end = remove2.span()[0]
 svo_file_path = txt_input_path[beginning:middle]
 svo_file_name = txt_input_path[middle:end]
 
-output_path = svo_file_path + svo_file_name + ".csv"
+# output_path = svo_file_path + svo_file_name + ".csv"
+output_path = txt_input_path + ".csv"
 
 
 with open(txt_input_path, 'rb') as f:

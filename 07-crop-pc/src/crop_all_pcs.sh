@@ -5,7 +5,7 @@ input_dir="../data/raw"
 output_dir="../data/processed"
 
 # Loop through the raw directory
-for mask_file in "$input_dir"/scaled_mask*.jpg; do
+for mask_file in "$input_dir"/scaled_mask*.txt; do
     # Extract the common sequence from the file name
     common_sequence=$(basename "$mask_file" | sed 's/^scaled_mask//' | sed 's/\.txt$//')
     
@@ -21,7 +21,5 @@ for mask_file in "$input_dir"/scaled_mask*.jpg; do
     echo "Emphasized PC file" "$emphasized_pc_file"
 
     # Call the Python script with the parameters
-    python3 "validate_projected_pc.py" "$mask_file" "$pc_file" "$cropped_pc_file" "$emphasized_pc_file"
-    python3 "pc_to_csv.py" "$cropped_pc_file"
-    python3 "pc_to_csv.py" "$emphasized_pc_file"
+    python3 "crop_pc.py" "$mask_file" "$pc_file" "$cropped_pc_file" "$emphasized_pc_file"
 done
