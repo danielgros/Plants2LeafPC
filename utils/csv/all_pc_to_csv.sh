@@ -16,7 +16,7 @@ for file in "${files[@]}";
 do
     filename="${file##*/}"
     echo "$filename"
-    if [[ $filename == *".txt"* ]] && [[ $filename == "pc"* ]]; then
+    if [[ $filename == *".txt"* ]] && [[ $filename == "val"* ]]; then
         echo "$file"
         python3 pc_to_csv.py "$file"
     fi

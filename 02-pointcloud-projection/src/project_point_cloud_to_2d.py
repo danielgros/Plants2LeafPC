@@ -163,6 +163,56 @@ def removeHorizontalBlackLines(img):
             cur_row += 1
     return new_img
 
+
+def removeVerticalBlackLinesPC(point_cloud):
+    width = np.shape(point_cloud)[1]
+    height = np.shape(point_cloud)[0]
+    black_columb_idx_list = {}
+    for c in range(1, width - 1):
+        if not point_cloud[0, c]:
+            isBlackLine = True
+            for r in range(0, height):
+                if point_cloud[r, c]:
+                    isBlackLine = False
+                    break
+            if isBlackLine:
+                black_columb_idx_list[c] = True
+    new_point_cloud = np.empty((height, width - len(black_columb_idx_list.keys())), dtype=object)
+    cur_col = 0
+    for c in range(0, width):
+        if c in black_columb_idx_list:
+            pass
+        else:
+            for r in range(0, height):
+                new_point_cloud[r, cur_col] = point_cloud[r, c]
+            cur_col += 1
+    return new_point_cloud
+
+def removeHorizontalBlackLinesPC(point_cloud):
+    width = np.shape(point_cloud)[1]
+    height = np.shape(point_cloud)[0]
+    black_row_idx_list = {}
+    for r in range(1, height - 1):
+        if not point_cloud[r, 0]:
+            isBlackLine = True
+            for c in range(0, width):
+                if point_cloud[r, c]:
+                    isBlackLine = False
+                    break
+            if isBlackLine:
+                black_row_idx_list[r] = True
+    new_point_cloud = np.empty((height - len(black_row_idx_list.keys()), width), dtype=object)
+    cur_row = 0
+    for r in range(0, height):
+        if r in black_row_idx_list:
+            pass
+        else:
+            for c in range(0, width):
+                new_point_cloud[cur_row, c] = point_cloud[r, c]
+            cur_row += 1
+    return new_point_cloud
+
+
 def pointCloudToImage():
 
     if len(sys.argv) != 5:
@@ -218,6 +268,12 @@ def pointCloudToImage():
 
     img = removeVerticalBlackLines(img)
     img = removeHorizontalBlackLines(img)
+
+    point_cloud = removeVerticalBlackLinesPC(point_cloud)
+    point_cloud = removeHorizontalBlackLinesPC(point_cloud)
+
+    assert img.shape[0] == point_cloud.shape[0]
+    assert img.shape[1] == point_cloud.shape[1]
 
     # fix black lines in different columns FOR LATER
     # img = removeVerticalBlackLines2(img)
