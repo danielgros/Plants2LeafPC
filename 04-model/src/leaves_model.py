@@ -203,7 +203,7 @@ def train(model):
         iaa.SomeOf((0,2),[
             # iaa.GammaContrast((0.5, 2.0), per_channel=True),
             iaa.Multiply((0.5, 1.5)), # brightness
-            iaa.ChangeColPorTemperature((3000, 15000)),
+            iaa.ChangeColorTemperature((3000, 15000)),
         ],),
         iaa.SomeOf((0, 2),[
             iaa.Fliplr(1),
