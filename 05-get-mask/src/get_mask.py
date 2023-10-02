@@ -31,7 +31,7 @@ MODEL_DIR = os.path.join(ROOT_DIR, "logs")
 # You can download this file from the Releases page
 # https://github.com/matterport/Mask_RCNN/releases
 LEAVES_MODEL_WEIGHTS_PATH = os.path.join(
-    ROOT_DIR, "logs/leaves_model20230918T1246"
+    ROOT_DIR, "logs/leaves_model_baseline/mask_rcnn_leaves_model_0039.h5"
 )  # TODO: update this path
 
 
@@ -79,17 +79,17 @@ with tf.device(DEVICE):
 
 
 # Set path to leaves_model weights file
-# weights_path = LEAVES_MODEL_WEIGHTS_PATH
+weights_path = LEAVES_MODEL_WEIGHTS_PATH
 
 # Or, load the last model you trained
-weights_path = model.find_last()
+# weights_path = model.find_last()
 
 # Load weights
 print("Loading weights ", weights_path)
 model.load_weights(weights_path, by_name=True)
 
 # image_id = random.choice(dataset.image_ids)
-image_ids = [1, 2, 6, 10]
+image_ids = [3]
 for image_id in image_ids:
     image, image_meta, gt_class_id, gt_bbox, gt_mask = modellib.load_image_gt(
         dataset, config, image_id, use_mini_mask=False

@@ -33,12 +33,12 @@ def main():
     list_keys = list(masks.keys())
     print(np.array(masks[list(masks.keys())[0]]).shape)
 
-    # with open(point_cloud_data_path, 'rb') as f:
-    #     point_cloud_data = pickle.load(f)
+    with open(point_cloud_data_path, 'rb') as f:
+        point_cloud_data = pickle.load(f)
 
-    # print(np.array(point_cloud_data).shape)
-    # projected_image_height, projected_image_width = np.array(point_cloud_data).shape
-    projected_image_height, projected_image_width = cv2.imread(point_cloud_data_path).shape[:2]
+    print(np.array(point_cloud_data).shape)
+    projected_image_height, projected_image_width = np.array(point_cloud_data).shape
+    # projected_image_height, projected_image_width = cv2.imread(point_cloud_data_path).shape[:2]
     print(projected_image_height, projected_image_width)
 
     scaled_mask = {}

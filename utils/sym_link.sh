@@ -4,7 +4,7 @@
 SOURCE_DIR="/hdd/gros2/maskrcnn/samples/plants_to_leaf_area/01-get-pc/data/processed/sample/output"
 
 # Specify the output directory for the symbolic links
-OUTPUT_DIR="/hdd/gros2/maskrcnn/samples/plants_to_leaf_area/02-pointcloud-projection/data/raw"
+OUTPUT_DIR="/hdd/gros2/maskrcnn/samples/plants_to_leaf_area/05-get-mask/data/raw"
 
 # Check if the source directory exists
 if [ ! -d "$SOURCE_DIR" ]; then
