@@ -199,20 +199,17 @@ def train(model):
     # Image augmentation
     # http://imgaug.readthedocs.io/en/latest/source/augmenters.html
     augmentation = iaa.Sequential([
-    iaa.GaussianBlur(sigma=(0.0, 5.0)),
-    iaa.SomeOf((0, 2),[
-        iaa.Multiply((0.8, 1.5)),
-        iaa.Fliplr(0.5),
-        iaa.Flipud(0.5),
-        iaa.OneOf(
-            [iaa.Affine(rotate=90), iaa.Affine(rotate=180), iaa.Affine(rotate=270)]
-        ),
-        # iaa.GammaContrast((0.5, 2.0), per_channel=True),
-        iaa.Multiply((0.8, 1.5)), # brightness
-        iaa.ChangeColorTemperature((3000, 7500)),
-        # iaa.ColorTemperature((3000, 7500)),
-    ],),
-    ])
+        iaa.Sometimes(0.7, iaa.GaussianBlur(sigma=(3.5, 6.0))),
+        iaa.SomeOf((0,2),[
+            # iaa.GammaContrast((0.5, 2.0), per_channel=True),
+            iaa.Multiply((0.5, 1.5)), # brightness
+            iaa.ChangeColPorTemperature((3000, 15000)),
+        ],),
+        iaa.SomeOf((0, 2),[
+            iaa.Fliplr(1),
+            iaa.Flipud(1),
+        ],),
+    ])  
 
     # *** This training schedule is an example. Update to your needs ***
     # Since we're using a very small dataset, and starting from
