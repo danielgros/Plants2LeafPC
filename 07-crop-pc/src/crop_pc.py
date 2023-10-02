@@ -26,10 +26,10 @@ def main():
     print(np.array(point_cloud_data).shape)
     projected_image_height, projected_image_width = np.array(point_cloud_data).shape
 
-    cropped_pc = []
-    emphasized_pc = []
-
     for mask_key in list_keys:
+        cropped_pc = []
+        emphasized_pc = []
+
         for height_coordinate in range(0, projected_image_height):
             for width_coordinate in range(0, projected_image_width):
                 if masks[mask_key][height_coordinate][width_coordinate][0]:
