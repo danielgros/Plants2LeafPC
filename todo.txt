@@ -88,3 +88,30 @@ simplify validation, there should be one file that runs and does the work and ma
 for future
 
 train model to also only segment based on 3D spatial coordinates (continuous)
+
+
+
+----------------------
+
+describe next steps
+
+(old description:)
+
+1 Development:
+once i have the point cloud of one leaf
+0. Transfer the colors with the points in point cloud
+1. all edges into array
+2. all points that are close to white into an array -> do some regression stuff to get midline
+2.5 all midline points into an array
+3. for each edge find the 'white point' that is closest to it
+4. then for each midline white point get the distance between all edge poitns that marked themselves closest to that white point
+5. max between those distances is the widest width- use calibration photos and compare measurements
+
+
+
+
+------------------
+
+
+talk about key accomplishments in the conclusion
+
