@@ -1,5 +1,0 @@
-trained model based on left image, when it came to fitting the mask on the image, the projection of the point cloud was gather from the left and right image and although it was in the perspective of the lef t image supposedly, that didn't work
-
-training it based on projection
-
-worreid about resolution (pro 1:1) vs good resolution (con not 1 to 1) -> tested with a worse resolution to see how much it affected the output
