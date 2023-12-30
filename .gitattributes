@@ -1,4 +1,0 @@
-# **/data/**/* filter=lfs diff=lfs merge=lfs -text
-# *.svo filter=lfs diff=lfs merge=lfs -text
-
-# ./01-get-pc/data/sample/* filter=lfs diff=lfs merge=lfs -text
