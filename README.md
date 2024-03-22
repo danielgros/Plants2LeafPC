@@ -116,6 +116,7 @@ This step is used to convert the ZED camera recordings into point clouds
     ```
 
 ### 02-pointcloud-projection
+To Do
 This step is used to convert the ZED camera recordings into point clouds
 
 1. Navigate to Plants2LeafPC
