@@ -121,14 +121,6 @@ Make sure ZED Camera is connected to a machine with the ZED SDK installed and th
 
 
 
-----
-
-
-
-
-https://www.stereolabs.com/docs/docker/install-guide-linux/
-
-----
 
 ## Miscellaneous
 
