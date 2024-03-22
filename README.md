@@ -116,27 +116,136 @@ This step is used to convert the ZED camera recordings into point clouds
     ```
 
 ### 02-pointcloud-projection
+This step is used to convert the ZED camera recordings into point clouds
 
-
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 ### 03-annotations
+To Do
+This step is used to convert the ZED camera recordings into point clouds
 
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 
 ### 04-model
+To Do
+This step is used to convert the ZED camera recordings into point clouds
 
-
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 ### 05-get-mask
+To Do
+This step is used to convert the ZED camera recordings into point clouds
 
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 ### 06-scale-mask
+To Do
+This step is used to convert the ZED camera recordings into point clouds
 
-
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 ### 07-crop-pc
+To Do
+This step is used to convert the ZED camera recordings into point clouds
 
-
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 
 ## Miscellaneous
