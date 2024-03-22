@@ -3,7 +3,9 @@
 ## Project Overview
 
 UIUC researchers are experimenting with genetic modifications on plants and tracking their growth to measure the effectiveness of these modifications on the plant’s ability to survive in drier and hotter climates. Metrics that communicate the quality of growth can be gathered from a leaf’s phenotype data, including its width. This research project aims at making extraction of phenotype data easier, as in the case of leaf width, by providing researchers with an accurate and precise model of individual leaves.
+
 A vision-based method using stereo images was developed to acquire a 3D model of a leaf. First a stereo camera was utilized to capture recordings of a scene and generate point clouds. Then, the point clouds were projected onto a 2D representation to run a trained instance segmentation model on them to detect leaves in the 2D representation and predict leaf masks. These masks were used as filters on these 2D representations to acquire leaf point clouds after reprojection to 3D.
+
 This research project and the resulting software produced by it demonstrate an effective workflow for acquiring leaf point clouds with birds-eye-view stereo images. Although the accuracy of some measurements doesn’t make the product of this project ready to be shared, the results give empirical evidence that the method utilized is able to go through the process of acquiring leaf models for plants in environments with dense leaf clusters. These products are a step in allowing leaf phenotype measurements to be taken with ease, helping researchers track plant growth and improve their experiments.
 
 ## Project Setup
