@@ -73,13 +73,13 @@ This research project and the resulting software produced by it demonstrate an e
 
 
 ### 00-get-svo-files
-This is used to capture recordings using the ZED Camera
+This step is used to capture recordings using the ZED Camera
 Make sure ZED Camera is connected to a machine with the ZED SDK installed and the Plants2LeafPC/00-get-svo-files directory
 
-1. Navigate to Plants2LeafPC/00-get-svo-files/
+1. Navigate to Plants2LeafPC
 2. Transfer over files into container
     ```bash
-    docker cp src zed_sdk_container:/docker_volume
+    docker cp 00-get-svo-files zed_sdk_container:/docker_volume
     ```
 3. Enter the spun up container with the ZED SDK install
     ```bash
@@ -87,7 +87,7 @@ Make sure ZED Camera is connected to a machine with the ZED SDK installed and th
     ```
 4. Navigate to transfered directory
     ```bash
-    cd /docker_volume/src/bash_scripts
+    cd /docker_volume/00-get-svo-files/src/bash_scripts
     ```
 5. Run data collection script
     ```bash
@@ -95,8 +95,25 @@ Make sure ZED Camera is connected to a machine with the ZED SDK installed and th
     ```
 
 ### 01-get-pc
+This step is used to convert the ZED camera recordings into point clouds
 
-
+1. Navigate to Plants2LeafPC
+2. Transfer over files into container
+    ```bash
+    docker cp 01-get-pc zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
+    ```bash
+    docker exec -it zed_sdk_container bash
+    ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/01-get-pc/src
+    ```
+5. Run conversion script
+    ```bash
+    ./get_all_pcs.sh
+    ```
 
 ### 02-pointcloud-projection
 
