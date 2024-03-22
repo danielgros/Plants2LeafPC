@@ -1,4 +1,4 @@
-name: ml_model
+name: ml_model_env
 channels:
   - anaconda
   - defaults
