@@ -67,14 +67,29 @@
 
 
 ### 00-get-svo-files
+This is used to capture recordings using the ZED Camera
+Make sure ZED Camera is connected to a machine with the ZED SDK installed and the Plants2LeafPC/00-get-svo-files directory
 
-
-### 01-get-pc
-
-6. To re-enter the container
+1. Navigate to Plants2LeafPC/00-get-svo-files/
+2. Transfer over files into container
+    ```bash
+    docker cp src zed_sdk_container:/docker_volume
+    ```
+3. Enter the spun up container with the ZED SDK install
     ```bash
     docker exec -it zed_sdk_container bash
     ```
+4. Navigate to transfered directory
+    ```bash
+    cd /docker_volume/src/bash_scripts
+    ```
+5. Run data collection script
+    ```bash
+    ./data_collection.sh
+    ```
+
+### 01-get-pc
+
 
 
 ### 02-pointcloud-projection
