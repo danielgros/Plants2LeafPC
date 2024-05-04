@@ -1,0 +1,18 @@
+Some Of the Papers:
+
+PlantNet: A dual-function point cloud segmentation network for multiple plant species by Dawei Li, Guoliang Shi, .... published in 2022
+Edge Boxes: Locating Object Proposals from Edges by C. Lawrence Zitnick and Piotr Dollar 
+Subjective contours independent of subjective brightness by Colin Ware published in 1981
+Research on Measurement Method of Leaf Length and Width Based on Point Cloud by Yawei Wang, Yifrei Chen, ... published in 2021
+Automatic Branch–Leaf Segmentation and Leaf Phenotypic Parameter Estimation of Pear Trees Based on Three-Dimensional Point Clouds by Haitao Li, Gengchen Wu, ... published in 2023
+Scale-aware Pixel-wise Object Proposal Networks by Zequn Jie, Xiaodan Liang, .... published in 2015
+R-FCN: Object Detection via Region-based Fully Convolutional Networks by Jifeng Dai, Yi Li, .... published in 2016
+Mask R-CNN by Kaiming He, Georgia Gkioxari, .... published in 2018
+Illusory Contour Detection Using MRF Models by Suthep Madarasmi, Ting-Chuen Pong, .... published in 1994
+Contour Continuity in Region Based Image Segmentation by Thomas Leung and Jitendra Malik published in 1998
+Gestalt principles -> scholarpedia
+Focal Loss for Dense Object Detection by Tsung-Yi Lin, Priya Goyal, .... published in 2018
+Fast R-CNN by Ross Girshick published in 2015
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks by Shaoqing Ren, Kaiming He, ..... published in 2016
+Efficient Saliency Maps for Explainable AI by T. Nathan Mundhenk, Barry Y. Chen, .... published 2020
+Low-Level Hierarchical Multiscale Segmentation Statistics of Natural Images by Emre Akbas and Narendra Ahuja published in 2014
