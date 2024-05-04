@@ -1,0 +1,39 @@
+<mxfile host="Electron" modified="2023-12-18T20:49:54.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="EFGBjA-UdBWfgg61EMVy" version="22.1.2" type="device">
+  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
+    <mxGraphModel dx="1232" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vUtEQ1WDIaLr55wLkuLu-32" value="FILTER BAD LEAVES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontStyle=1" parent="1" source="vUtEQ1WDIaLr55wLkuLu-16" target="cTVX6OfQ2_lKPS0Q1KLx-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUtEQ1WDIaLr55wLkuLu-16" value="POINT CLOUD OF LEAF" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="60" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GET MIDLINE&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cTVX6OfQ2_lKPS0Q1KLx-2" target="cTVX6OfQ2_lKPS0Q1KLx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-2" value="LEAVES" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GET EDGE POINTS&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTVX6OfQ2_lKPS0Q1KLx-3" target="cTVX6OfQ2_lKPS0Q1KLx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-3" value="MIDLINE" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GET WIDTH&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTVX6OfQ2_lKPS0Q1KLx-4" target="cTVX6OfQ2_lKPS0Q1KLx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-4" value="EDGE POINTS" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTVX6OfQ2_lKPS0Q1KLx-5" value="WIDTH OF LEAF" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="95" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
