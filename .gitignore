@@ -1,3 +1,7 @@
+## don't commit vscode specific files
+.vscode/
+
+## don't commit large data files
 00-get-svo-files/data/
 01-get-pc/data/
 02-pointcloud-projection/data/
@@ -12,13 +16,8 @@
 11-get-width/data/
 12-get-area/data/
 
-03-annotations/new_data/
-
+## don't commit the Mask RCNN model repository
 04-model/src/Mask_RCNN/
 
-
-.vscode/
-
-
-
-supplementary/
+## temporary ignore
+03-annotations/new_data/
