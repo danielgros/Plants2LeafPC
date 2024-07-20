@@ -1,12 +1,5 @@
 .
 ./03-annotations
-./03-annotations/new_data
-./03-annotations/new_data/images
-./03-annotations/new_data/images/val
-./03-annotations/new_data/images/train
-./03-annotations/new_data/annots
-./03-annotations/new_data/annots/val
-./03-annotations/new_data/annots/train
 ./03-annotations/src
 ./03-annotations/validation
 ./03-annotations/tests
@@ -121,7 +114,6 @@
 ./06-scale-mask/data/raw
 ./04-model
 ./04-model/src
-./04-model/src/__pycache__
 ./04-model/validation
 ./04-model/tests
 ./04-model/data

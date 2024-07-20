@@ -48,55 +48,65 @@ This research project and the resulting software produced by it demonstrate an e
    ```bash
    pip3 install -r requirements.txt
    ```
-5. Run setup from the repository root directory
+5. Run setup.py
     ```bash
     python3 setup.py install
     ``` 
-6. Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases).
+6. Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases) into the Mask_RCNN directory.
+7. Exit conda environment
+    ```
+    conda deactivate
+    ```
 
 ### ZED SDK Setup
 
-1. Browse the ZED SDK Docker Images at https://hub.docker.com/r/stereolabs/zed/tags?page=1
-2. Select one based on your OS and GPUs
-3. Download the image onto your machine (using 3.8-devel-cuda10.2-ubuntu18.04 as an example)
+1. Download and install docker: https://www.docker.com/products/docker-desktop/
+2. Browse the ZED SDK Docker Images at https://hub.docker.com/r/stereolabs/zed/tags?page=1
+3. Select one based on your OS and GPUs
+4. Download the image onto your machine (using 3.8-devel-cuda10.2-ubuntu18.04 as an example)
     ```bash
     docker pull stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04
     ```
-4. Spin up a container using the downloaded image (using 3.8-devel-cuda10.2-ubuntu18.04 as an example)
+5. Spin up a container using the downloaded image (using 3.8-devel-cuda10.2-ubuntu18.04 as an example)
     ```bash
     docker run --gpus all -it --name zed_sdk_container --privileged -v docker:/docker_volume stereolabs/zed:3.8-devel-cuda10.2-ubuntu18.04 bash
     ```
-5. Install ZED SDK in container (in current directory: /usr/local/zed)
+6. Install ZED SDK in container (in current directory: /usr/local/zed)
     ```bash
     python3 get_python_api.py
     ```
-6. To exit the container type Ctrl+p then Ctrl+q
+7. To exit the container type Ctrl+p then Ctrl+q
 
 
 ## Use Guide
 
 
 ### 00-get-svo-files
-This step is used to capture recordings using the ZED Camera
-Make sure ZED Camera is connected to a machine with the ZED SDK installed and the Plants2LeafPC/00-get-svo-files directory
+This step is used to capture recordings using the ZED Camera.
 
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
+1. Make sure the ZED Camera is connected to a machine with the ZED SDK installed and the Plants2LeafPC/00-get-svo-files directory
+2. Navigate to Plants2LeafPC
+3. Transfer over files into container
     ```bash
     docker cp 00-get-svo-files zed_sdk_container:/docker_volume
     ```
-3. Enter the spun up container with the ZED SDK install
+4. Enter the spun up container with the ZED SDK install
     ```bash
     docker exec -it zed_sdk_container bash
     ```
-4. Navigate to transfered directory
+5. Navigate to transfered directory
     ```bash
     cd /docker_volume/00-get-svo-files/src/bash_scripts
     ```
-5. Run data collection script
+6. Make data collection file executable
+    ```
+    chmod +x ./data_collection.sh
+    ```
+7. Run data collection script
     ```bash
     ./data_collection.sh
     ```
+8. To exit the container type Ctrl+p then Ctrl+q
 
 ### 01-get-pc
 This step is used to convert the ZED camera recordings into point clouds
@@ -114,158 +124,45 @@ This step is used to convert the ZED camera recordings into point clouds
     ```bash
     cd /docker_volume/01-get-pc/src
     ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
+5. Make point cloud acquisition file executable
     ```
+    chmod +x ./get_all_pcs.sh
+    ```
+6. Run conversion script
+    ```bash
+    ./get_all_pcs.sh 
+    ```
+7. To exit the container type Ctrl+p then Ctrl+q
 
 ### 02-pointcloud-projection
 To Do
-This step is used to convert the ZED camera recordings into point clouds
 
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
-    ```bash
-    docker cp 01-get-pc zed_sdk_container:/docker_volume
-    ```
-3. Enter the spun up container with the ZED SDK install
-    ```bash
-    docker exec -it zed_sdk_container bash
-    ```
-4. Navigate to transfered directory
-    ```bash
-    cd /docker_volume/01-get-pc/src
-    ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
-    ```
 
 ### 03-annotations
 To Do
-This step is used to convert the ZED camera recordings into point clouds
-
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
-    ```bash
-    docker cp 01-get-pc zed_sdk_container:/docker_volume
-    ```
-3. Enter the spun up container with the ZED SDK install
-    ```bash
-    docker exec -it zed_sdk_container bash
-    ```
-4. Navigate to transfered directory
-    ```bash
-    cd /docker_volume/01-get-pc/src
-    ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
-    ```
 
 
 ### 04-model
 To Do
-This step is used to convert the ZED camera recordings into point clouds
 
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
-    ```bash
-    docker cp 01-get-pc zed_sdk_container:/docker_volume
-    ```
-3. Enter the spun up container with the ZED SDK install
-    ```bash
-    docker exec -it zed_sdk_container bash
-    ```
-4. Navigate to transfered directory
-    ```bash
-    cd /docker_volume/01-get-pc/src
-    ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
-    ```
 
 ### 05-get-mask
 To Do
-This step is used to convert the ZED camera recordings into point clouds
 
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
-    ```bash
-    docker cp 01-get-pc zed_sdk_container:/docker_volume
-    ```
-3. Enter the spun up container with the ZED SDK install
-    ```bash
-    docker exec -it zed_sdk_container bash
-    ```
-4. Navigate to transfered directory
-    ```bash
-    cd /docker_volume/01-get-pc/src
-    ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
-    ```
 
 ### 06-scale-mask
 To Do
-This step is used to convert the ZED camera recordings into point clouds
 
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
-    ```bash
-    docker cp 01-get-pc zed_sdk_container:/docker_volume
-    ```
-3. Enter the spun up container with the ZED SDK install
-    ```bash
-    docker exec -it zed_sdk_container bash
-    ```
-4. Navigate to transfered directory
-    ```bash
-    cd /docker_volume/01-get-pc/src
-    ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
-    ```
 
 ### 07-crop-pc
 To Do
-This step is used to convert the ZED camera recordings into point clouds
 
-1. Navigate to Plants2LeafPC
-2. Transfer over files into container
-    ```bash
-    docker cp 01-get-pc zed_sdk_container:/docker_volume
-    ```
-3. Enter the spun up container with the ZED SDK install
-    ```bash
-    docker exec -it zed_sdk_container bash
-    ```
-4. Navigate to transfered directory
-    ```bash
-    cd /docker_volume/01-get-pc/src
-    ```
-5. Run conversion script
-    ```bash
-    ./get_all_pcs.sh
-    ```
 
+---
 
 ## Miscellaneous
 
-To Copy New Directory Structure:
-
-```find . -type d -not -path "./.git/*" > directory_structure.txt```
+To Copy New Directory Structure: ```find . -type d -not -path "./.git/*" > directory_structure.txt```
 
 
-For access to the data submit a request via the discussion board
-
-
-
-
-two avenues -> docker container version and conda version, 
-
-test
-test again
+For access to sorghum plant recordings submit a request via the discussion board

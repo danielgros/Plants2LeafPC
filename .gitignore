@@ -18,6 +18,3 @@
 
 ## don't commit the Mask RCNN model repository
 04-model/src/Mask_RCNN/
-
-## temporary ignore
-03-annotations/new_data/
