@@ -13,6 +13,8 @@ A vision-based method using stereo images was developed to acquire a 3D model of
 This research project and the resulting software produced by it demonstrate an effective workflow for acquiring leaf point clouds with birds-eye-view stereo images. Although the accuracy of some measurements doesn’t make the product of this project ready to be shared, the results give empirical evidence that the method utilized is able to go through the process of acquiring leaf models for plants in environments with dense leaf clusters. These products are a step in allowing leaf phenotype measurements to be taken with ease, helping researchers track plant growth and improve their experiments.
 
 ## Project Setup
+> **Note:** This setup guide is not comprehensive and there may be steps missing.
+
 
 ### Repository + Directory Setup
 1. Clone this repository
@@ -79,6 +81,7 @@ This research project and the resulting software produced by it demonstrate an e
 
 
 ## Use Guide
+> **Note:** This usage guide is not comprehensive and there may be steps missing.
 
 
 ### 00-get-svo-files
@@ -135,28 +138,117 @@ This step is used to convert the ZED camera recordings into point clouds
 7. To exit the container type Ctrl+p then Ctrl+q
 
 ### 02-pointcloud-projection
-To Do
+This step converts the point clouds into more easily used formats: csv file + 2d image 
 
+1. Activate general conda environment
+    ```
+    conda activate general_env
+    ```
+2. Navigate to Plants2LeafPC/02-pointcloud-projection/src
+3. Run script to turn point cloud into a csv file of pixel color values
+    ```
+    ./all_pc_to_csv.sh
+    ```
+4. Run script to turn point clouds into a 2d image representation (for training the model)
+    ```
+    ./all_project_point_cloud_to_2d.sh
+    ```
+5. Deactivate conda environment
+    ```
+    conda deactivate
+    ```
 
 ### 03-annotations
-To Do
+This step includes annotating the images for training the Mask RCNN model
 
+1. Go to the VGG Image Annotator website: https://annotate.officialstatistics.org/
+2. Follow the provided steps to annotate images
+3. Save images within 03-annotations/data/images/
+4. Save annotations within 03-annotations/data/annots/
+5. Activate general conda environment
+    ```
+    conda activate general_env
+    ```
+6. To transform the annotations into a format more easily readable by the Mask RCNN model, navigate to 03-annotations/src and execute:
+    ```
+    python3 annots_transformation.py
+    ```
+7. To copy over the images and annotations to the model folder execute:
+    ```
+    ./copy_images_and_annots_transformation.sh
+    ```
+8. Deactivate conda environment
+    ```
+    conda deactivate
+    ```
 
 ### 04-model
-To Do
+This step trains the model to be able to perform instance segmentation as defined in the annotated images.
 
+1. Activate ml_model conda environment
+    ```
+    conda activate ml_model_env
+    ```
+2. Navigate to 04-model/src
+3. Execute
+    ```
+    python3 leaves_model.py
+    ```
+4. Deactivate conda environment
+    ```
+    conda deactivate
+    ```
 
 ### 05-get-mask
-To Do
+This step uses the trained Mask RCNN model to obtain leaves (masks) for an image
 
+1. Activate ml_model conda environment
+    ```
+    conda activate ml_model_env
+    ```
+2. Navigate to 05-get-mask/src
+3. Execute
+    ```
+    python3 get_mask.py
+    ```
+4. Deactivate conda environment
+    ```
+    conda deactivate
+    ```
 
 ### 06-scale-mask
-To Do
+This step scales the leaf masks obtained from the model to the sizes of the original point clouds
 
+1. Activate general conda environment
+    ```
+    conda activate general_env
+    ```
+2. Navigate to 06-scale-mask/src
+3. Execute
+    ```
+    ./scale_all_masks.sh
+    ```
+4. Deactivate conda environment
+    ```
+    conda deactivate
+    ```
 
 ### 07-crop-pc
-To Do
+This step crops the point cloud based on the leaf masks
 
+1. Activate general conda environment
+    ```
+    conda activate general_env
+    ```
+2. Navigate to 07-crop-pc/src
+3. Execute
+    ```
+    ./crop_all_pcs.sh
+    ```
+4. Deactivate conda environment
+    ```
+    conda deactivate
+    ```
 
 ---
 
